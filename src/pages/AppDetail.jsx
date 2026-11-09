@@ -23,7 +23,8 @@ export default function AppDetail() {
   const app = apps.find(a => a.id === id)
   const [copied, setCopied] = useState(false)
   const [mediaIndex, setMediaIndex] = useState(0)
-  useSEO({ title: app ? `${app.title} — MSR Store` : 'App not found — MSR Store', description: app?.shortDescription, keywords: app?.tags?.join(', ') })
+  const [lightboxOpen, setLightboxOpen] = useState(false)
+  useSEO({ title: app ? `${app.title} — SRK Soft Store` : 'App not found — SRK Soft Store', description: app?.shortDescription, keywords: app?.tags?.join(', ') })
 
   if (!app) return <main className="not-found"><div className="not-found__box"><span>404</span><h1>App not found</h1><p>This app may have been removed or the link is incorrect.</p><Link to="/" className="button button--primary">Back to store <Icon name="arrow" size={16}/></Link></div></main>
 
@@ -42,6 +43,17 @@ export default function AppDetail() {
 
   return <main className="detail-page">
     <script type="application/ld+json">{JSON.stringify({'@context':'https://schema.org','@type':'SoftwareApplication',name:app.title,description:app.description,applicationCategory:app.category,operatingSystem:app.platform,softwareVersion:app.version,fileSize:app.size,keywords:app.tags?.join(', '),aggregateRating:{'@type':'AggregateRating',ratingValue:app.rating,ratingCount:1},author:{'@type':'Person',name:developer.name}})}</script>
+    
+    {/* Lightbox Modal Overlay */}
+    {lightboxOpen && media[mediaIndex]?.type === 'image' && (
+      <div className="lightbox-overlay" onClick={() => setLightboxOpen(false)}>
+        <div className="lightbox-content" onClick={e => e.stopPropagation()}>
+          <button className="lightbox-close" onClick={() => setLightboxOpen(false)}>×</button>
+          <img src={media[mediaIndex].src} alt="Expanded preview" />
+        </div>
+      </div>
+    )}
+
     <section className="detail-hero"><div className="container">
       <div className="breadcrumb"><Link to="/">Store</Link><span>/</span><span>{app.category}</span><span>/</span><b>{app.title}</b></div>
       <div className="product-hero">
@@ -51,7 +63,7 @@ export default function AppDetail() {
           <h1>{app.title}</h1>
           <p>{app.shortDescription}</p>
           <Link to="/about" className="developer-line"><img src={developer.photo} alt="" /> By {developer.name}</Link>
-          <div className="product-stats"><span><b>★</b> {app.rating.toFixed(1)}</span><i /> <span>{app.size}</span><i /> <span>Version {app.version}</span><i /> <span>Updated {app.releaseDate}</span></div>
+          <div className="product-stats"><span><b>★</b> {app.rating ? app.rating.toFixed(1) : '0.0'}</span><i /> <span>{app.size}</span><i /> <span>Version {app.version}</span><i /> <span>Updated {app.releaseDate}</span></div>
           <div className="product-actions"><a href={app.downloadUrl} className="button button--primary button--large"><Icon name="download" size={18}/> Install {app.title}</a><button className="button button--soft" onClick={share}><Icon name="share" size={18}/> {copied ? 'Link copied' : 'Share'}</button></div>
           <div className="trust-line"><Icon name="shield" size={16}/><span>Download opens the developer's existing release link.</span></div>
         </div>
@@ -62,7 +74,7 @@ export default function AppDetail() {
       <div className="detail-main">
         {hasMedia && <section className="media-section"><div className="section-heading"><div><span className="section-kicker">Preview</span><h2>See it in action</h2></div><span className="media-counter">{mediaIndex + 1} / {media.length}</span></div>
           <div className="media-stage">
-            {media[mediaIndex].type === 'video' ? <div className="video-frame"><iframe src={`https://www.youtube.com/embed/${media[mediaIndex].id}?rel=0&modestbranding=1&playsinline=1&controls=1`} title={`${app.title} preview`} allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen /></div> : <img src={media[mediaIndex].src} alt={`${app.title} screenshot ${mediaIndex + 1}`} />}
+            {media[mediaIndex]?.type === 'video' ? <div className="video-frame"><iframe src={`https://www.youtube.com/embed/${media[mediaIndex].id}?rel=0&modestbranding=1&playsinline=1&controls=1`} title={`${app.title} preview`} allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen /></div> : <img src={media[mediaIndex]?.src} alt={`${app.title} screenshot ${mediaIndex + 1}`} onClick={() => setLightboxOpen(true)} style={{ cursor: 'pointer' }} title="Click to view full size" />}
             {media.length > 1 && <><button className="media-nav media-nav--prev" onClick={() => setMediaIndex(i => (i - 1 + media.length) % media.length)} aria-label="Previous preview">‹</button><button className="media-nav media-nav--next" onClick={() => setMediaIndex(i => (i + 1) % media.length)} aria-label="Next preview">›</button></>}
           </div>
           {media.length > 1 && <div className="media-thumbs">{media.map((item,i) => <button key={i} className={i === mediaIndex ? 'is-active' : ''} onClick={() => setMediaIndex(i)}>{item.type === 'video' ? <span className="thumb-play">▶</span> : <img src={item.src} alt="" />}</button>)}</div>}

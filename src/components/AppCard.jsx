@@ -12,7 +12,7 @@ export default function AppCard({ app, index = 0, compact = false }) {
         <h3>{app.title}</h3>
         <p>{app.shortDescription}</p>
         <div className="app-card__bottom">
-          <span><b>★</b> {app.rating.toFixed(1)}</span>
+          <span><b>★</b> {app.rating ? app.rating.toFixed(1) : '0.0'}</span>
           <span>{app.size}</span>
           <span className="app-card__open">View <span>→</span></span>
         </div>

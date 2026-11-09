@@ -1,0 +1,41 @@
+[
+  {
+    "id": "InventoryPOS",
+    "title": "Inventory POS",
+    "shortDescription": "Enterprise POS and Inventory Control Software | Complete Desktop Solution for Retail Business.",
+    "description": "⚡ ONE-TIME PAYMENT. LIFETIME ACCESS. UNLIMITED STORES.\n\nStop paying recurring monthly SaaS fees. Pay ONCE ($100) and own your Enterprise POS System forever!\n\nAre you a store owner, retailer, or business manager looking for a fast, reliable, and secure Desktop POS system?\n\nEnterprise POS & Inventory Control Center is a complete, production-ready desktop solution built with high-performance C++ and PostgreSQL. It runs 100% offline with ZERO monthly subscriptions, zero hidden costs, and zero cloud dependencies!\n\n--- \n\n🎯 WHY THIS IS A NO-BRAINER INVESTMENT ($1,000+ VALUE)\n\n* NO Monthly Subscription Fees: Pay once for $100 and use it forever.\n* Unlimited Device Installations: Install on as many store terminals and PCs as you need without buying additional license keys.\n* 100% Offline & Internet-Independent: Built on a secure local PostgreSQL engine. Your business and sales data stays completely on your device.\n* Instant Digital Delivery: Get the ready-to-run installer (.exe) instantly upon purchase and set up your store in under 5 minutes!\n* Direct Support Included: Have questions or setup issues? Get direct technical assistance from our core support team (msrk.support@gmail.com).\n\n--- \n\n🚀 CORE ENTERPRISE MODULES & FEATURES\n\n🔑 1. Multi-User & Role-Based Security\n* Admin, Cashier, and Clerk account types with restricted access policies.\n* Database Encryption: Passwords hashed securely using PostgreSQL pgcrypto.\n\n📊 2. Executive Business Dashboard\n* Instant operational snapshots of Daily Sales, Total Revenue, Active Items, and Low-Stock Warnings.\n\n📦 3. Inventory & Category Management\n* Full product management (Add, Edit, Search, Stock Adjustments).\n* Dedicated Stock-Entry Workflow and automated low-stock flags.\n\n🛒 4. High-Speed POS Checkout Engine\n* Built for high-volume counter operations. Dynamic line-item updates, quantity adjustments, and auto-calculated totals.\n\n📄 5. Professional PDF Receipts & Reports\n* Printable A4 Receipts & Invoices with print preview.\n* Filter sales reports by Today, This Week, This Month, or This Year and export as PDF.\n\n🌍 6. Multi-Currency Engine & Custom Branding\n* Set custom Store/Business Name across receipts and reports.\n* Add custom currencies (PKR, USD, EUR, GBP, AED, SAR, etc.) with custom symbols.\n\n🌓 7. Sleek Dual Visual Themes\n* Dark Mode & Light Mode: Toggle seamlessly between clean dark mode and bright UI mode.\n\n--- \n\n📦 WHAT YOU GET INSTANTLY UPON PURCHASE\n\n1. Ready-to-Install Executable Package (InventoryPOS_Setup.exe)\n2. Step-by-Step User & Database Setup Guide (PDF Manual)\n3. Dedicated Support Line (Email: msrk.support@gmail.com)\n\n🔑 Default First Launch Credentials:\n* Username: admin\n* Password: admin123\n(Note: You can change default credentials immediately after logging in).\n\n--- \n\n💰 READY TO UPGRADE YOUR STORE POS TODAY?\n\nClick \"I want this!\" to download your executable setup package instantly and step into hassle-free retail management!",
+    "icon": "https://raw.githubusercontent.com/msr-khan/foodpanda-clone/refs/heads/main/converted.png",
+    "screenshots": [
+      "https://public-files.gumroad.com/b5anp28ck7jnttnrsg60k7xn35m7",
+      "https://public-files.gumroad.com/lmcow5wdckc8l2ipl4iuq1dqo85b",
+      "https://public-files.gumroad.com/y2rs2jtv05c5x6ycfkcemzne4cfz",
+      "https://public-files.gumroad.com/oa7gowk7vmaek05kvxp7emma5gc0",
+      "https://public-files.gumroad.com/zi7vf8a6puafdzidxunhpguq8grm",
+      "https://public-files.gumroad.com/0q9cdbuv7tvgjij83ysiswmvfurg",
+      "https://public-files.gumroad.com/x56wcikngv1z3w5bu72ghx066710"
+      
+    ],
+    "youtube": "https://youtu.be/hfomzGlcHUE?si=K-UOpInHtho6WlaE",
+    "category": "Desktop ApplicationS,Utilities",
+    "tags": [
+      "inventory",
+      "productivity",
+      "windows",
+      "pos-system",
+      "desktop-app",
+      "point-of-sale",
+      "inventory-management",
+      "retail-software",
+      "postgresql",
+      "c-plus-plus",
+      "business-automation",
+      "offline-pos"
+    ],
+    "version": "1.0.0",
+    "size": "210 MB",
+    "platform": "Windows",
+    "rating": 4.6,
+    "downloadUrl": "https://mystique231.gumroad.com/l/rssvfd?_gl=1*w3b5e7*_ga*MTQzNzQ4MzY0OS4xNzkxMDE2MTkz*_ga_6LJN6D94N6*czE3OTI5NTAzODkkbzI0JGcxJHQxNzkyOTUwNDMxJGoxOCRsMCRoMA..",
+    "releaseDate": "2026-10-17"
+  }
+]

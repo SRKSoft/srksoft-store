@@ -39,7 +39,7 @@ export default function Home() {
           <div className="hero-copy">
             <div className="hero-kicker"><span className="hero-kicker__dot" />  𝐒𝐑𝐊 𝐒𝐨𝐟𝐭 𝐒𝐭𝐨𝐫𝐞</div>
             <h1>Software that feels <em>simple.</em></h1>
-            <p>𝑫𝒊𝒔𝒄𝒐𝒗𝒆𝒓 𝒔𝒆𝒄𝒖𝒓𝒆, 𝒄𝒖𝒓𝒂𝒕𝒆𝒅 𝒅𝒆𝒔𝒌𝒕𝒐𝒑 𝒂𝒑𝒑𝒔 𝒂𝒏𝒅 𝒕𝒐𝒐𝒍𝒔 𝒃𝒖𝒊𝒍𝒕 𝒇𝒐𝒓 𝒑𝒆𝒓𝒇𝒐𝒓𝒎𝒂𝒏𝒄𝒆. 𝑩𝒓𝒐𝒘𝒔𝒆 𝒐𝒖𝒓 𝒗𝒆𝒓𝒊𝒇𝒊𝒆𝒅 𝒔𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝒄𝒂𝒕𝒂𝒍𝒐𝒈 𝒂𝒏𝒅 𝒊𝒏𝒔𝒕𝒂𝒍𝒍 𝒔𝒂𝒇𝒆𝒍𝒚 𝒕𝒉𝒓𝒐𝒖𝒈𝒉 𝒐𝒇𝒇𝒊𝒄𝒊𝒂𝒍 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒓𝒆𝒍𝒆𝒂𝒔𝒆 𝒍𝒊𝒏𝒌𝒔.</p>
+            <p>𝑫𝒊𝒔𝒄𝒐𝒗𝒆𝒓 𝒔𝒆𝒄𝒖𝒓𝒆, 𝒄𝒖𝒓𝒂𝒕𝒆𝒅 𝒅𝒆𝒔𝒌𝒕𝒐𝒑 𝒂𝒑𝒑𝒔 𝒂𝒏𝒅 𝒕𝒐𝒐𝒍𝒔 𝒃𝒖𝒊𝒍𝒕 𝒇𝒐𝒓 𝒑𝒆𝒓𝒇𝒐𝒓𝒎𝒂𝒏𝒄𝒆. 𝑩𝒓𝒐𝒘𝒔𝒆 𝒐𝒖𝒓 𝒗𝒆𝒓𝒊𝒇𝒊𝒆𝒅 𝒔𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝒄𝒂𝒕𝒂𝒍𝒐𝒈 𝒂𝒏𝒅 𝒊𝒏𝒔𝒕𝒂𝒍𝒍 𝒔𝒂𝒇𝒆𝒍𝒚 𝒕𝒉𝒓𝒐𝒖𝒈𝒉 𝒐𝒇𝒇𝒊𝒄𝒊𝒂𝒍 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒓𝒆𝒍𝒆𝒂𝒔𝒆 𝒍𝒊𝒏ᱠ𝒔.</p>
             <div className="hero-actions">
               <a href="#catalog" className="button button--primary">Explore apps <Icon name="arrow" size={17} /></a>
               <Link to="/about" className="button button--soft">Meet the developer</Link>
@@ -54,7 +54,7 @@ export default function Home() {
               <div className="featured-icon-wrap"><img src={featured.icon} alt="" /></div>
               <div><span className="featured-category">{featured.category}</span><h2>{featured.title}</h2><p>{featured.shortDescription}</p></div>
             </div>
-            <div className="featured-card__stats"><span><b>★</b> {featured.rating.toFixed(1)}</span><span>{featured.size}</span><span>{featured.platform}</span></div>
+            <div className="featured-card__stats"><span><b>★</b> {featured.rating ? featured.rating.toFixed(1) : '0.0'}</span><span>{featured.size}</span><span>{featured.platform}</span></div>
             <Link to={`/app/${featured.id}`} className="featured-card__link">View app <Icon name="arrow" size={16} /></Link>
             <div className="featured-dots">{apps.map((a,i)=><button key={a.id} className={i === featuredIndex ? 'is-active' : ''} onClick={() => setFeaturedIndex(i)} aria-label={`Show ${a.title}`} />)}</div>
           </div>}

@@ -1,7 +1,7 @@
 {
-  "name": "𝐒𝐑𝐊 𝐒𝐨𝐟𝐭 𝐒𝐭𝐨𝐫𝐞",
-  "short_name": "𝐒𝐑𝐊 𝐒𝐨𝐟𝐭 𝐒𝐭𝐨𝐫𝐞",
-  "description": "𝑫𝒊𝒔𝒄𝒐𝒗𝒆𝒓 𝒔𝒆𝒄𝒖𝒓𝒆, 𝒄𝒖𝒓𝒂𝒕𝒆𝒅 𝒅𝒆𝒔𝒕𝒐𝒑 𝒂𝒑𝒑𝒔 𝒂𝒏𝒅 𝒕𝒐𝒐𝒍𝒔 𝒃𝒖𝒊𝒍𝒕 𝒇𝒐𝒓 𝒑𝒆𝒓𝒇𝒐𝒓𝒎𝒂𝒏𝒄𝒆. 𝑩𝒓𝒐𝒘𝒔𝒆 𝒐𝒖𝒓 𝒗𝒆𝒓𝒊𝒇𝒊𝒆𝒅 𝒔𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝒄𝒂𝒕𝒂𝒍𝒐𝒈 𝒂𝒏𝒅 𝒊𝒏𝒔𝒕𝒂𝒍𝒍 𝒔𝒂𝒇𝒆𝒍𝒚 𝒕𝒉𝒓𝒐𝒖𝒈𝒉 𝒐𝒇𝒇𝒊𝒄𝒊𝒂𝒍 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒓𝒆𝒍𝒆𝒂𝒔𝒆 𝒍𝒊𝒏𝒌𝒔.",
+  "name": "SRK Soft Store",
+  "short_name": "SRK Soft Store",
+  "description": "Discover secure, curated desktop apps and tools built for performance. Browse our verified software catalog and install safely through official developer release links.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",

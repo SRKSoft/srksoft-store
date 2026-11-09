@@ -4,7 +4,7 @@
     "title": "Inventory POS",
     "shortDescription": "Enterprise POS and Inventory Control Software | Complete Desktop Solution for Retail Business.",
     "description": "⚡ ONE-TIME PAYMENT. LIFETIME ACCESS. UNLIMITED STORES.\n\nStop paying recurring monthly SaaS fees. Pay ONCE ($100) and own your Enterprise POS System forever!\n\nAre you a store owner, retailer, or business manager looking for a fast, reliable, and secure Desktop POS system?\n\nEnterprise POS & Inventory Control Center is a complete, production-ready desktop solution built with high-performance C++ and PostgreSQL. It runs 100% offline with ZERO monthly subscriptions, zero hidden costs, and zero cloud dependencies!\n\n--- \n\n🎯 WHY THIS IS A NO-BRAINER INVESTMENT ($1,000+ VALUE)\n\n* NO Monthly Subscription Fees: Pay once for $100 and use it forever.\n* Unlimited Device Installations: Install on as many store terminals and PCs as you need without buying additional license keys.\n* 100% Offline & Internet-Independent: Built on a secure local PostgreSQL engine. Your business and sales data stays completely on your device.\n* Instant Digital Delivery: Get the ready-to-run installer (.exe) instantly upon purchase and set up your store in under 5 minutes!\n* Direct Support Included: Have questions or setup issues? Get direct technical assistance from our core support team (msrk.support@gmail.com).\n\n--- \n\n🚀 CORE ENTERPRISE MODULES & FEATURES\n\n🔑 1. Multi-User & Role-Based Security\n* Admin, Cashier, and Clerk account types with restricted access policies.\n* Database Encryption: Passwords hashed securely using PostgreSQL pgcrypto.\n\n📊 2. Executive Business Dashboard\n* Instant operational snapshots of Daily Sales, Total Revenue, Active Items, and Low-Stock Warnings.\n\n📦 3. Inventory & Category Management\n* Full product management (Add, Edit, Search, Stock Adjustments).\n* Dedicated Stock-Entry Workflow and automated low-stock flags.\n\n🛒 4. High-Speed POS Checkout Engine\n* Built for high-volume counter operations. Dynamic line-item updates, quantity adjustments, and auto-calculated totals.\n\n📄 5. Professional PDF Receipts & Reports\n* Printable A4 Receipts & Invoices with print preview.\n* Filter sales reports by Today, This Week, This Month, or This Year and export as PDF.\n\n🌍 6. Multi-Currency Engine & Custom Branding\n* Set custom Store/Business Name across receipts and reports.\n* Add custom currencies (PKR, USD, EUR, GBP, AED, SAR, etc.) with custom symbols.\n\n🌓 7. Sleek Dual Visual Themes\n* Dark Mode & Light Mode: Toggle seamlessly between clean dark mode and bright UI mode.\n\n--- \n\n📦 WHAT YOU GET INSTANTLY UPON PURCHASE\n\n1. Ready-to-Install Executable Package (InventoryPOS_Setup.exe)\n2. Step-by-Step User & Database Setup Guide (PDF Manual)\n3. Dedicated Support Line (Email: msrk.support@gmail.com)\n\n🔑 Default First Launch Credentials:\n* Username: admin\n* Password: admin123\n(Note: You can change default credentials immediately after logging in).\n\n--- \n\n💰 READY TO UPGRADE YOUR STORE POS TODAY?\n\nClick \"I want this!\" to download your executable setup package instantly and step into hassle-free retail management!",
-    "icon" : "https://media.licdn.com/dms/image/v2/D4D2DAQGYTjUGSgmOGg/profile-treasury-image-shrink_1920_1920/B4DaF0JWo_GUAc-/0/1792949971921?e=1793556000&v=beta&t=q4SPyRzPsWTtY3-kNAa0eSgvuUkiJrTvpN6Q7k6_w8k",
+    "icon": "https://raw.githubusercontent.com/msr-khan/foodpanda-clone/refs/heads/main/converted.png",
     "screenshots": [
       "https://public-files.gumroad.com/b5anp28ck7jnttnrsg60k7xn35m7",
       "https://public-files.gumroad.com/lmcow5wdckc8l2ipl4iuq1dqo85b",
@@ -12,192 +12,3383 @@
       "https://public-files.gumroad.com/oa7gowk7vmaek05kvxp7emma5gc0",
       "https://public-files.gumroad.com/zi7vf8a6puafdzidxunhpguq8grm",
       "https://public-files.gumroad.com/0q9cdbuv7tvgjij83ysiswmvfurg",
-      "https://public-files.gumroad.com/x56wcikngv1z3w5bu72ghx066710",
-      "https://media.licdn.com/dms/image/v2/D4D2DAQEeC3bbjRHx8w/profile-treasury-image-shrink_1280_1280/B4DaF0FMLIKYAY-/0/1792948880346?e=1793556000&v=beta&t=vFJ3eKLtdvAuI2ytML8GosTCKzE2vU03BiFHi6PIChA",
-      "https://media.licdn.com/dms/image/v2/D4D2DAQHG98BRLlhLQQ/profile-treasury-image-shrink_1280_1280/B4DaF0FMQQHIAc-/0/1792948880681?e=1793556000&v=beta&t=Kjdgs0zxqHLoFGk3_lJWcoVk_iu7Tylwy0OVHfQynIg",
-      "https://media.licdn.com/dms/image/v2/D4D2DAQH0dxrndbWRUA/profile-treasury-image-shrink_1280_1280/B4DaF0FMcSGYAY-/0/1792948881425?e=1793556000&v=beta&t=8LUf1Nlat-zc9Q4FpUkvVySLlOfJghyHEN-jDYLP45A",
-      "https://media.licdn.com/dms/image/v2/D4D2DAQELEJGt3BdYkw/profile-treasury-image-shrink_1280_1280/B4DaF0FMZ.IwAY-/0/1792948881343?e=1793556000&v=beta&t=GrqX2zTYHYfbacnZJ8AaPC_KGPTS0EB1aEGkCjn2E5k",
-      "https://media.licdn.com/dms/image/v2/D4D2DAQFOeCpL-jOcmQ/profile-treasury-image-shrink_1280_1280/B4DaF0FMXNKYAc-/0/1792948881100?e=1793556000&v=beta&t=G73KzoVivDQosAUwn7_5hIHwzrvC7E0qY9kJTki4fng"
+      "https://public-files.gumroad.com/x56wcikngv1z3w5bu72ghx066710"
       
     ],
     "youtube": "https://youtu.be/hfomzGlcHUE?si=K-UOpInHtho6WlaE",
-    "category": "Desktop ApplicationS",
-   "tags": [
-  "inventory",
-  "productivity",
-  "windows",
-  "pos-system",
-  "desktop-app",
-  "point-of-sale",
-  "inventory-management",
-  "retail-software",
-  "postgresql",
-  "c-plus-plus",
-  "business-automation",
-  "offline-pos"
-],
+    "category": "Desktop ApplicationS,Utilities",
+    "tags": [
+      "inventory",
+      "productivity",
+      "windows",
+      "pos-system",
+      "desktop-app",
+      "point-of-sale",
+      "inventory-management",
+      "retail-software",
+      "postgresql",
+      "c-plus-plus",
+      "business-automation",
+      "offline-pos"
+    ],
     "version": "1.0.0",
     "size": "210 MB",
     "platform": "Windows",
     "rating": 4.6,
     "downloadUrl": "https://mystique231.gumroad.com/l/rssvfd?_gl=1*w3b5e7*_ga*MTQzNzQ4MzY0OS4xNzkxMDE2MTkz*_ga_6LJN6D94N6*czE3OTI5NTAzODkkbzI0JGcxJHQxNzkyOTUwNDMxJGoxOCRsMCRoMA..",
-    
     "releaseDate": "2026-10-17"
   },
   {
-    "id": "NEWpip",
+    "id": "powertoys",
+    "title": "PowerToys",
+    "shortDescription": "Microsoft's power-user tools: FancyZones, PowerRename, Color Picker and more.",
+    "description": "Microsoft's power-user tools: FancyZones, PowerRename, Color Picker and more.\n\nMicrosoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/microsoft.png?size=200",
+    "screenshots": [
+      "https://raw.githubusercontent.com/microsoft/PowerToys/main/doc/images/readme/Release-Banner.png",
+      "https://raw.githubusercontent.com/microsoft/PowerToys/main/doc/images/readme/pt-hero.dark.png"
+    ],
+    "youtube": "",
+    "category": "Utilities",
+    "tags": [
+      "windows",
+      "utilities",
+      "powertoys",
+      "open-source"
+    ],
+    "version": "0.102.3101",
+    "size": "309 MB",
+    "platform": "Windows",
+    "stars": 140759,
+    "rating": null,
+    "downloadUrl": "https://github.com/microsoft/PowerToys/releases/download/v0.102.3101/PowerToysSetup-0.102.3101.0-x64.exe",
+    "repoUrl": "https://github.com/microsoft/PowerToys",
+    "releaseDate": "2026-11-06"
+  },
+  {
+    "id": "flow.launcher",
+    "title": "Flow Launcher",
+    "shortDescription": "Quick app launcher and search tool with plugin support.",
+    "description": "Quick app launcher and search tool with plugin support.\n\n:mag: Quick file search & app launcher for Windows with community-made plugins\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/Flow-Launcher.png?size=200",
+    "screenshots": [
+      "https://user-images.githubusercontent.com/6903107/207167068-2196d2a3-2caa-4856-958b-a780fbda95c6.gif",
+      "https://user-images.githubusercontent.com/6903107/207168016-85d0dd16-1f3b-4d42-9d37-0e0d5a596ead.png",
+      "https://user-images.githubusercontent.com/6903107/144858082-8b654daf-60fb-4ee6-89b2-6183b73510d1.png",
+      "https://user-images.githubusercontent.com/6903107/145332614-74909973-f6eb-47c2-8235-289931e30718.png",
+      "https://user-images.githubusercontent.com/6903107/145018796-658b7c24-a34f-46b6-98d4-cf4f636d8b60.png",
+      "https://user-images.githubusercontent.com/6903107/144517502-5325de01-d0d9-4c2e-aafb-33c3f5d82f81.png"
+    ],
+    "youtube": "",
+    "category": "Utilities",
+    "tags": [
+      "windows",
+      "utilities",
+      "flow.launcher",
+      "open-source"
+    ],
+    "version": "2.1.4",
+    "size": "97.1 MB",
+    "platform": "Windows",
+    "stars": 15989,
+    "rating": null,
+    "downloadUrl": "https://github.com/Flow-Launcher/Flow.Launcher/releases/download/v2.1.4/Flow-Launcher-Setup.exe",
+    "repoUrl": "https://github.com/Flow-Launcher/Flow.Launcher",
+    "releaseDate": "2026-09-20"
+  },
+  {
+    "id": "translucenttb",
+    "title": "TranslucentTB",
+    "shortDescription": "Make the Windows taskbar transparent or blurred.",
+    "description": "Make the Windows taskbar transparent or blurred.\n\nA lightweight utility that makes the Windows taskbar translucent/transparent.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/TranslucentTB.png?size=200",
+    "screenshots": [
+      "https://discordapp.com/api/guilds/304387206552879116/widget.png?style=shield",
+      "https://user-images.githubusercontent.com/6440374/180880766-4380b2cf-4d9e-4d07-8986-a9b34cb6244a.png#gh-dark-mode-only",
+      "https://user-images.githubusercontent.com/6440374/180880839-355c472c-0b7a-4aae-88e5-0234001cb281.png#gh-light-mode-only",
+      "https://i.imgur.com/M15IPJW.png",
+      "https://i.imgur.com/eLGTtwp.png",
+      "https://i.imgur.com/r4ZJjnL.png"
+    ],
+    "youtube": "",
+    "category": "Customization",
+    "tags": [
+      "windows",
+      "customization",
+      "translucenttb",
+      "open-source"
+    ],
+    "version": "2026.2",
+    "size": "1.7 MB",
+    "platform": "Windows",
+    "stars": 20765,
+    "rating": null,
+    "downloadUrl": "https://github.com/TranslucentTB/TranslucentTB/releases/download/2026.2/TranslucentTB-portable-x64.zip",
+    "repoUrl": "https://github.com/TranslucentTB/TranslucentTB",
+    "releaseDate": "2026-08-31"
+  },
+  {
+    "id": "windhawk",
+    "title": "Windhawk",
+    "shortDescription": "Customize Windows with a marketplace of small mods.",
+    "description": "Customize Windows with a marketplace of small mods.\n\nThe customization marketplace for Windows programs: https://windhawk.net/\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/ramensoftware.png?size=200",
+    "screenshots": [
+      "https://raw.githubusercontent.com/ramensoftware/windhawk/main/screenshot.png",
+      "https://raw.githubusercontent.com/ramensoftware/windhawk/main/diagram.png"
+    ],
+    "youtube": "",
+    "category": "Customization",
+    "tags": [
+      "windows",
+      "customization",
+      "windhawk",
+      "open-source"
+    ],
+    "version": "1.7.3",
+    "size": "11.0 MB",
+    "platform": "Windows",
+    "stars": 9747,
+    "rating": null,
+    "downloadUrl": "https://github.com/ramensoftware/windhawk/releases/download/v1.7.3/windhawk_setup.exe",
+    "repoUrl": "https://github.com/ramensoftware/windhawk",
+    "releaseDate": "2025-12-08"
+  },
+  {
+    "id": "unigetui",
+    "title": "UniGetUI",
+    "shortDescription": "A graphical manager for winget, Scoop and Chocolatey packages.",
+    "description": "A graphical manager for winget, Scoop and Chocolatey packages.\n\nUniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/marticliment.png?size=200",
+    "screenshots": [
+      "https://raw.githubusercontent.com/marticliment/UniGetUI/main/media/UniGetUI-Image.png",
+      "https://raw.githubusercontent.com/marticliment/UniGetUI/main/media/UniGetUI_1.png",
+      "https://raw.githubusercontent.com/marticliment/UniGetUI/main/media/UniGetUI_2.png",
+      "https://raw.githubusercontent.com/marticliment/UniGetUI/main/media/UniGetUI_3.png",
+      "https://raw.githubusercontent.com/marticliment/UniGetUI/main/media/UniGetUI_4.png",
+      "https://raw.githubusercontent.com/marticliment/UniGetUI/main/media/UniGetUI_5.png"
+    ],
+    "youtube": "",
+    "category": "Utilities",
+    "tags": [
+      "windows",
+      "utilities",
+      "unigetui",
+      "open-source"
+    ],
+    "version": "2026.3.3",
+    "size": "34.2 MB",
+    "platform": "Windows",
+    "stars": 26950,
+    "rating": null,
+    "downloadUrl": "https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.Installer.x64.exe",
+    "repoUrl": "https://github.com/Devolutions/UniGetUI",
+    "releaseDate": "2026-10-29"
+  },
+  {
+    "id": "windirstat",
+    "title": "WinDirStat",
+    "shortDescription": "Visual disk usage analyzer that shows what is eating your storage.",
+    "description": "Visual disk usage analyzer that shows what is eating your storage.\n\nWindows disk usage analyzer and cleanup tool with interactive treemaps, large-file discovery, duplicate detection, and file-system monitoring.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/windirstat.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/windirstat/windirstat"
+    ],
+    "youtube": "",
+    "category": "Utilities",
+    "tags": [
+      "windows",
+      "utilities",
+      "windirstat",
+      "open-source"
+    ],
+    "version": "release/v2.9.3",
+    "size": "2.4 MB",
+    "platform": "Windows",
+    "stars": 4497,
+    "rating": null,
+    "downloadUrl": "https://github.com/windirstat/windirstat/releases/download/release/v2.9.3/WinDirStat-x64.msi",
+    "repoUrl": "https://github.com/windirstat/windirstat",
+    "releaseDate": "2026-10-11"
+  },
+  {
+    "id": "bulk-crap-uninstaller",
+    "title": "Bulk Crap Uninstaller",
+    "shortDescription": "Remove many programs at once, including leftovers.",
+    "description": "Remove many programs at once, including leftovers.\n\nRemove large amounts of unwanted applications quickly.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/Klocman.png?size=200",
+    "screenshots": [
+      "https://raw.githubusercontent.com/Klocman/Bulk-Crap-Uninstaller/master/../gh-pages/assets/1.png",
+      "https://raw.githubusercontent.com/Klocman/Bulk-Crap-Uninstaller/master/../gh-pages/assets/4.png"
+    ],
+    "youtube": "",
+    "category": "Utilities",
+    "tags": [
+      "windows",
+      "utilities",
+      "bulk-crap-uninstaller",
+      "open-source"
+    ],
+    "version": "6.3",
+    "size": "11.8 MB",
+    "platform": "Windows",
+    "stars": 22353,
+    "rating": null,
+    "downloadUrl": "https://github.com/BCUninstaller/Bulk-Crap-Uninstaller/releases/download/v6.3/BCUninstaller_6.3.0_net8.0-windows10.0.18362.0.zip",
+    "repoUrl": "https://github.com/BCUninstaller/Bulk-Crap-Uninstaller",
+    "releaseDate": "2026-09-07"
+  },
+  {
+    "id": "systeminformer",
+    "title": "System Informer",
+    "shortDescription": "Powerful process and system monitor, a task manager replacement.",
+    "description": "Powerful process and system monitor, a task manager replacement.\n\nA free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ https://windows-internals.com\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/winsiderss.png?size=200",
+    "screenshots": [
+      "https://github.com/winsiderss/systeminformer/raw/master/SystemInformer/resources/systeminformer-128x128.png"
+    ],
+    "youtube": "",
+    "category": "Utilities",
+    "tags": [
+      "windows",
+      "utilities",
+      "systeminformer",
+      "open-source"
+    ],
+    "version": "4.0.26241.138",
+    "size": "28.9 MB",
+    "platform": "Windows",
+    "stars": 16453,
+    "rating": null,
+    "downloadUrl": "https://github.com/winsiderss/systeminformer/releases/download/v4.0.26241.138/systeminformer-4.0.26241.138-release-setup.exe",
+    "repoUrl": "https://github.com/winsiderss/systeminformer",
+    "releaseDate": "2026-08-29"
+  },
+  {
+    "id": "autohotkey",
+    "title": "Utilities",
+    "description": "undefined\n\nAutoHotkey - macro-creation and automation-oriented scripting utility for Windows.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/AutoHotkey.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/AutoHotkey/AutoHotkey"
+    ],
+    "youtube": "",
+    "category": "Keyboard and mouse automation with simple scripts.",
+    "tags": [
+      "windows",
+      "keyboard-and-mouse-automation-with-simple-scripts.",
+      "autohotkey",
+      "open-source"
+    ],
+    "version": "2.0.31",
+    "size": "2.9 MB",
+    "platform": "Windows",
+    "stars": 13446,
+    "rating": null,
+    "downloadUrl": "https://github.com/AutoHotkey/AutoHotkey/releases/download/v2.0.31/AutoHotkey_2.0.31_setup.exe",
+    "repoUrl": "https://github.com/AutoHotkey/AutoHotkey",
+    "releaseDate": "2026-10-25"
+  },
+  {
+    "id": "localsend",
+    "title": "LocalSend",
+    "shortDescription": "Share files with nearby devices without internet.",
+    "description": "Share files with nearby devices without internet.\n\nAn open-source cross-platform alternative to AirDrop\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/localsend.png?size=200",
+    "screenshots": [
+      "https://localsend.org/img/screenshot-iphone.webp",
+      "https://localsend.org/img/screenshot-pc.webp"
+    ],
+    "youtube": "",
+    "category": "Utilities",
+    "tags": [
+      "windows",
+      "utilities",
+      "localsend",
+      "open-source"
+    ],
+    "version": "1.18.2",
+    "size": "18.1 MB",
+    "platform": "Windows",
+    "stars": 98029,
+    "rating": null,
+    "downloadUrl": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-windows-x86-64-unsigned.exe",
+    "repoUrl": "https://github.com/localsend/localsend",
+    "releaseDate": "2026-08-21"
+  },
+  {
+    "id": "brave-browser",
+    "title": "Brave Browser",
+    "shortDescription": "Privacy-focused browser with built-in ad and tracker blocking.",
+    "description": "Privacy-focused browser with built-in ad and tracker blocking.\n\nBrave browser for Android, iOS, Linux, macOS, Windows.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/brave.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/brave/brave-browser"
+    ],
+    "youtube": "",
+    "category": "Browsers",
+    "tags": [
+      "windows",
+      "browsers",
+      "brave-browser",
+      "open-source"
+    ],
+    "version": "1.101.32",
+    "size": "1.2 MB",
+    "platform": "Windows",
+    "stars": 24157,
+    "rating": null,
+    "downloadUrl": "https://github.com/brave/brave-browser/releases/download/v1.101.32/BraveBrowserNightlySetup.exe",
+    "repoUrl": "https://github.com/brave/brave-browser",
+    "releaseDate": "2026-11-06"
+  },
+  {
+    "id": "ungoogled-chromium",
+    "title": "Ungoogled Chromium",
+    "shortDescription": "Chromium without Google services for better privacy.",
+    "description": "Chromium without Google services for better privacy.\n\nWindows packaging for ungoogled-chromium\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/ungoogled-software.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/ungoogled-software/ungoogled-chromium-windows"
+    ],
+    "youtube": "",
+    "category": "Browsers",
+    "tags": [
+      "windows",
+      "browsers",
+      "ungoogled-chromium-windows",
+      "open-source"
+    ],
+    "version": "157.0.8103.38-1.1",
+    "size": "125 MB",
+    "platform": "Windows",
+    "stars": 2636,
+    "rating": null,
+    "downloadUrl": "https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/157.0.8103.38-1.1/ungoogled-chromium_157.0.8103.38-1.1_installer_x64.exe",
+    "repoUrl": "https://github.com/ungoogled-software/ungoogled-chromium-windows",
+    "releaseDate": "2026-11-07"
+  },
+  {
+    "id": "floorp",
+    "title": "Floorp",
+    "shortDescription": "Customizable Firefox-based browser.",
+    "description": "Customizable Firefox-based browser.\n\nAll of source code of Floorp 12, the most Advanced and Fastest Firefox derivative 🦊\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/Floorp-Projects.png?size=200",
+    "screenshots": [
+      "https://avatars.githubusercontent.com/u/94953125?s=200&v=4",
+      "https://avatars.githubusercontent.com/u/346808?s=200&v=4",
+      "https://avatars.githubusercontent.com/1Password?s=200&v=4",
+      "https://avatars.githubusercontent.com/u/34448643?s=200&v=4"
+    ],
+    "youtube": "",
+    "category": "Browsers",
+    "tags": [
+      "windows",
+      "browsers",
+      "floorp",
+      "open-source"
+    ],
+    "version": "12.21.1",
+    "size": "111 MB",
+    "platform": "Windows",
+    "stars": 8483,
+    "rating": null,
+    "downloadUrl": "https://github.com/Floorp-Projects/Floorp/releases/download/v12.21.1/floorp-windows-x86_64.installer.exe",
+    "repoUrl": "https://github.com/Floorp-Projects/Floorp",
+    "releaseDate": "2026-11-04"
+  },
+  {
+    "id": "motrix",
+    "title": "Motrix",
+    "shortDescription": "Full-featured download manager for HTTP, FTP and torrents.",
+    "description": "Full-featured download manager for HTTP, FTP and torrents.\n\nA full-featured download manager.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/agalwood.png?size=200",
+    "screenshots": [
+      "https://raw.githubusercontent.com/agalwood/Motrix/main/screenshots/motrix-dashboard-en-light.webp",
+      "https://raw.githubusercontent.com/agalwood/Motrix/main/screenshots/motrix-downloads-en-light.webp",
+      "https://raw.githubusercontent.com/agalwood/Motrix/main/screenshots/motrix-settings-en-light.webp"
+    ],
+    "youtube": "",
+    "category": "Downloaders",
+    "tags": [
+      "windows",
+      "downloaders",
+      "motrix",
+      "open-source"
+    ],
+    "version": "2.4.0",
+    "size": "127 MB",
+    "platform": "Windows",
+    "stars": 58030,
+    "rating": null,
+    "downloadUrl": "https://github.com/agalwood/Motrix/releases/download/v2.4.0/Motrix-Setup-2.4.0.exe",
+    "repoUrl": "https://github.com/agalwood/Motrix",
+    "releaseDate": "2026-11-08"
+  },
+  {
+    "id": "ab-download-manager",
+    "title": "AB Download Manager",
+    "shortDescription": "Fast, modern download manager with queues and scheduling.",
+    "description": "Fast, modern download manager with queues and scheduling.\n\nA Download Manager that speeds up your downloads\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/amir1376.png?size=200",
+    "screenshots": [
+      "https://raw.githubusercontent.com/amir1376/ab-download-manager/master/assets/banners/app_banner.png",
+      "https://raw.githubusercontent.com/amir1376/ab-download-manager/master/assets/banners/firefox-extension.png",
+      "https://raw.githubusercontent.com/amir1376/ab-download-manager/master/assets/banners/chrome-extension_light.png",
+      "https://raw.githubusercontent.com/amir1376/ab-download-manager/master/assets/screenshots/app-home_dark.png",
+      "https://raw.githubusercontent.com/amir1376/ab-download-manager/master/assets/screenshots/app-download_dark.png"
+    ],
+    "youtube": "",
+    "category": "Downloaders",
+    "tags": [
+      "windows",
+      "downloaders",
+      "ab-download-manager",
+      "open-source"
+    ],
+    "version": "1.11.4",
+    "size": "75.0 MB",
+    "platform": "Windows",
+    "stars": 19121,
+    "rating": null,
+    "downloadUrl": "https://github.com/amir1376/ab-download-manager/releases/download/v1.11.4/ABDownloadManager_1.11.4_windows_x64.exe",
+    "repoUrl": "https://github.com/amir1376/ab-download-manager",
+    "releaseDate": "2026-11-03"
+  },
+  {
+    "id": "yt-dlp",
+    "title": "yt-dlp",
+    "shortDescription": "Command-line video and audio downloader for thousands of sites.",
+    "description": "Command-line video and audio downloader for thousands of sites.\n\nA feature-rich command-line audio/video downloader\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/yt-dlp.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/yt-dlp/yt-dlp"
+    ],
+    "youtube": "",
+    "category": "Downloaders",
+    "tags": [
+      "windows",
+      "downloaders",
+      "yt-dlp",
+      "open-source"
+    ],
+    "version": "2026.10.26",
+    "size": "22.8 MB",
+    "platform": "Windows",
+    "stars": 206360,
+    "rating": null,
+    "downloadUrl": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.10.26/yt-dlp_win.zip",
+    "repoUrl": "https://github.com/yt-dlp/yt-dlp",
+    "releaseDate": "2026-10-26"
+  },
+  {
+    "id": "open-video-downloader",
+    "title": "Open Video Downloader",
+    "shortDescription": "A friendly GUI for yt-dlp.",
+    "description": "A friendly GUI for yt-dlp.\n\nOpen Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/jely2002.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/jely2002/youtube-dl-gui"
+    ],
+    "youtube": "",
+    "category": "Downloaders",
+    "tags": [
+      "windows",
+      "downloaders",
+      "youtube-dl-gui",
+      "open-source"
+    ],
+    "version": "app-v3.2.1",
+    "size": "4.3 MB",
+    "platform": "Windows",
+    "stars": 9688,
+    "rating": null,
+    "downloadUrl": "https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.1/Open.Video.Downloader_3.2.1_x64-setup.exe",
+    "repoUrl": "https://github.com/jely2002/youtube-dl-gui",
+    "releaseDate": "2026-07-05"
+  },
+  {
+    "id": "keepassxc",
+    "title": "KeePassXC",
+    "shortDescription": "Offline, open-source password manager.",
+    "description": "Offline, open-source password manager.\n\nKeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/keepassxreboot.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/keepassxreboot/keepassxc"
+    ],
+    "youtube": "",
+    "category": "Security",
+    "tags": [
+      "windows",
+      "security",
+      "keepassxc",
+      "open-source"
+    ],
+    "version": "2.8.0",
+    "size": "66.2 MB",
+    "platform": "Windows",
+    "stars": 29881,
+    "rating": null,
+    "downloadUrl": "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-x64.msi",
+    "repoUrl": "https://github.com/keepassxreboot/keepassxc",
+    "releaseDate": "2026-10-21"
+  },
+  {
+    "id": "cryptomator",
+    "title": "Cryptomator",
+    "shortDescription": "Encrypt your cloud files with client-side encryption.",
+    "description": "Encrypt your cloud files with client-side encryption.\n\nCryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/cryptomator.png?size=200",
+    "screenshots": [
+      "https://raw.githubusercontent.com/cryptomator/cryptomator/develop/cryptomator.png"
+    ],
+    "youtube": "",
+    "category": "Security",
+    "tags": [
+      "windows",
+      "security",
+      "cryptomator",
+      "open-source"
+    ],
+    "version": "1.19.6",
+    "size": "50.8 MB",
+    "platform": "Windows",
+    "stars": 16472,
+    "rating": null,
+    "downloadUrl": "https://github.com/cryptomator/cryptomator/releases/download/1.19.6/Cryptomator-1.19.6-x64.msi",
+    "repoUrl": "https://github.com/cryptomator/cryptomator",
+    "releaseDate": "2026-10-30"
+  },
+  {
+    "id": "mullvad-vpn",
+    "title": "Mullvad VPN",
+    "shortDescription": "Privacy-first VPN client.",
+    "description": "Privacy-first VPN client.\n\nThe Mullvad VPN client app for desktop and mobile\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/mullvad.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/mullvad/mullvadvpn-app"
+    ],
+    "youtube": "",
+    "category": "Security",
+    "tags": [
+      "windows",
+      "security",
+      "mullvadvpn-app",
+      "open-source"
+    ],
+    "version": "2026.5",
+    "size": "128 MB",
+    "platform": "Windows",
+    "stars": 7762,
+    "rating": null,
+    "downloadUrl": "https://github.com/mullvad/mullvadvpn-app/releases/download/2026.5/MullvadVPN-2026.5_x64.exe",
+    "repoUrl": "https://github.com/mullvad/mullvadvpn-app",
+    "releaseDate": "2026-09-14"
+  },
+  {
+    "id": "clash-verge-rev",
+    "title": "Clash Verge Rev",
+    "shortDescription": "Modern proxy client built on Clash Meta.",
+    "description": "Modern proxy client built on Clash Meta.\n\nA modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/clash-verge-rev.png?size=200",
+    "screenshots": [
+      "https://raw.githubusercontent.com/clash-verge-rev/clash-verge-rev/dev/docs/preview_dark.png",
+      "https://raw.githubusercontent.com/clash-verge-rev/clash-verge-rev/dev/docs/preview_light.png"
+    ],
+    "youtube": "",
+    "category": "Network",
+    "tags": [
+      "windows",
+      "network",
+      "clash-verge-rev",
+      "open-source"
+    ],
+    "version": "2.5.10",
+    "size": "57.3 MB",
+    "platform": "Windows",
+    "stars": 157323,
+    "rating": null,
+    "downloadUrl": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.10/Clash.Verge_2.5.10_x64-setup.exe",
+    "repoUrl": "https://github.com/clash-verge-rev/clash-verge-rev",
+    "releaseDate": "2026-11-03"
+  },
+  {
+    "id": "v2rayn",
+    "title": "v2rayN",
+    "shortDescription": "V2Ray and Xray proxy client for Windows.",
+    "description": "V2Ray and Xray proxy client for Windows.\n\nA GUI client for Windows, Linux and macOS, support Xray and sing-box and others\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/2dust.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/2dust/v2rayN"
+    ],
+    "youtube": "",
+    "category": "Network",
+    "tags": [
+      "windows",
+      "network",
+      "v2rayn",
+      "open-source"
+    ],
+    "version": "7.25.6",
+    "size": "138 MB",
+    "platform": "Windows",
+    "stars": 120246,
+    "rating": null,
+    "downloadUrl": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-64-desktop.zip",
+    "repoUrl": "https://github.com/2dust/v2rayN",
+    "releaseDate": "2026-10-11"
+  },
+  {
+    "id": "obs-studio",
+    "title": "OBS Studio",
+    "shortDescription": "Free screen recording and live streaming software.",
+    "description": "Free screen recording and live streaming software.\n\nOBS Studio - Free and open source software for live streaming and screen recording\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/obsproject.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/obsproject/obs-studio"
+    ],
+    "youtube": "",
+    "category": "Media",
+    "tags": [
+      "windows",
+      "media",
+      "obs-studio",
+      "open-source"
+    ],
+    "version": "33.0.1",
+    "size": "178 MB",
+    "platform": "Windows",
+    "stars": 79210,
+    "rating": null,
+    "downloadUrl": "https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-Windows-x64-Installer.exe",
+    "repoUrl": "https://github.com/obsproject/obs-studio",
+    "releaseDate": "2026-10-29"
+  },
+  {
+    "id": "sharex",
+    "title": "ShareX",
+    "shortDescription": "Screenshots, screen recording and instant uploads.",
+    "description": "Screenshots, screen recording and instant uploads.\n\nShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/ShareX.png?size=200",
+    "screenshots": [
+      "https://getsharex.com/img/ShareX_Banner.png",
+      "https://getsharex.com/img/ShareX_Screenshot.png"
+    ],
+    "youtube": "",
+    "category": "Media",
+    "tags": [
+      "windows",
+      "media",
+      "sharex",
+      "open-source"
+    ],
+    "version": "22.4.0",
+    "size": "139 MB",
+    "platform": "Windows",
+    "stars": 40872,
+    "rating": null,
+    "downloadUrl": "https://github.com/ShareX/ShareX/releases/download/v22.4.0/ShareX-22.4.0-setup-x64.exe",
+    "repoUrl": "https://github.com/ShareX/ShareX",
+    "releaseDate": "2026-11-08"
+  },
+  {
+    "id": "greenshot",
+    "title": "Greenshot",
+    "shortDescription": "Lightweight screenshot tool with quick annotation.",
+    "description": "Lightweight screenshot tool with quick annotation.\n\nGreenshot for Windows - for more information look here:\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/greenshot.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/greenshot/greenshot"
+    ],
+    "youtube": "",
+    "category": "Media",
+    "tags": [
+      "windows",
+      "media",
+      "greenshot",
+      "open-source"
+    ],
+    "version": "1.3.328",
+    "size": "3.8 MB",
+    "platform": "Windows",
+    "stars": 5250,
+    "rating": null,
+    "downloadUrl": "https://github.com/greenshot/greenshot/releases/download/v1.3.328/Greenshot-INSTALLER-1.3.328-RELEASE.exe",
+    "repoUrl": "https://github.com/greenshot/greenshot",
+    "releaseDate": "2026-10-19"
+  },
+  {
+    "id": "screentogif",
+    "title": "ScreenToGif",
+    "shortDescription": "Record your screen and edit it as a GIF or video.",
+    "description": "Record your screen and edit it as a GIF or video.\n\n🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/NickeManarin.png?size=200",
+    "screenshots": [
+      "https://nickemanarin.github.io/ScreenToGif-Website/wiki/download-now.png",
+      "https://nickemanarin.github.io/ScreenToGif-Website/wiki/download-store.png",
+      "https://nickemanarin.github.io/ScreenToGif-Website/wiki/download-chocolatey.png",
+      "https://nickemanarin.github.io/ScreenToGif-Website/media/Recorder.png",
+      "https://nickemanarin.github.io/ScreenToGif-Website/media/Startup.png",
+      "https://nickemanarin.github.io/ScreenToGif-Website/media/Editor.gif"
+    ],
+    "youtube": "",
+    "category": "Media",
+    "tags": [
+      "windows",
+      "media",
+      "screentogif",
+      "open-source"
+    ],
+    "version": "2.43.2",
+    "size": "7.1 MB",
+    "platform": "Windows",
+    "stars": 27906,
+    "rating": null,
+    "downloadUrl": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Light.Setup.x64.msi",
+    "repoUrl": "https://github.com/NickeManarin/ScreenToGif",
+    "releaseDate": "2026-07-28"
+  },
+  {
+    "id": "mpc-hc",
+    "title": "MPC-HC",
+    "shortDescription": "Classic lightweight media player.",
+    "description": "Classic lightweight media player.\n\nMedia Player Classic\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/clsid2.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/clsid2/mpc-hc"
+    ],
+    "youtube": "",
+    "category": "Media",
+    "tags": [
+      "windows",
+      "media",
+      "mpc-hc",
+      "open-source"
+    ],
+    "version": "2.8.5",
+    "size": "22.1 MB",
+    "platform": "Windows",
+    "stars": 16118,
+    "rating": null,
+    "downloadUrl": "https://github.com/clsid2/mpc-hc/releases/download/2.8.5/MPC-HC.2.8.5.x64.exe",
+    "repoUrl": "https://github.com/clsid2/mpc-hc",
+    "releaseDate": "2026-11-06"
+  },
+  {
+    "id": "lossless-cut",
+    "title": "LosslessCut",
+    "shortDescription": "Cut and trim videos without losing quality.",
+    "description": "Cut and trim videos without losing quality.\n\nThe swiss army knife of lossless video/audio editing\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/mifi.png?size=200",
+    "screenshots": [
+      "https://static.mifi.no/media/InHeghy_4DwVeujK/2000.jpg"
+    ],
+    "youtube": "",
+    "category": "Media",
+    "tags": [
+      "windows",
+      "media",
+      "lossless-cut",
+      "open-source"
+    ],
+    "version": "3.70.2",
+    "size": "145 MB",
+    "platform": "Windows",
+    "stars": 45854,
+    "rating": null,
+    "downloadUrl": "https://github.com/mifi/lossless-cut/releases/download/v3.70.2/LosslessCut-win-x64.7z",
+    "repoUrl": "https://github.com/mifi/lossless-cut",
+    "releaseDate": "2026-10-28"
+  },
+  {
+    "id": "shotcut",
+    "title": "Shotcut",
+    "shortDescription": "Free, cross-platform video editor.",
+    "description": "Free, cross-platform video editor.\n\ncross-platform (Qt), open-source (GPLv3) video editor\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/mltframework.png?size=200",
+    "screenshots": [
+      "https://www.shotcut.org/assets/img/screenshots/Shotcut-18.11.18.png"
+    ],
+    "youtube": "",
+    "category": "Media",
+    "tags": [
+      "windows",
+      "media",
+      "shotcut",
+      "open-source"
+    ],
+    "version": "26.9.27",
+    "size": "146 MB",
+    "platform": "Windows",
+    "stars": 15638,
+    "rating": null,
+    "downloadUrl": "https://github.com/mltframework/shotcut/releases/download/v26.9.27/shotcut-win64-26.9.27.exe",
+    "repoUrl": "https://github.com/mltframework/shotcut",
+    "releaseDate": "2026-09-28"
+  },
+  {
+    "id": "audacity",
+    "title": "Audacity",
+    "shortDescription": "Popular free audio editor and recorder.",
+    "description": "Popular free audio editor and recorder.\n\nAudio Editor                                     \n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/audacity.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/audacity/audacity"
+    ],
+    "youtube": "",
+    "category": "Media",
+    "tags": [
+      "windows",
+      "media",
+      "audacity",
+      "open-source"
+    ],
+    "version": "Audacity-4.0.2",
+    "size": "47.5 MB",
+    "platform": "Windows",
+    "stars": 19002,
+    "rating": null,
+    "downloadUrl": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.2/audacity-win-4.0.2-x86_64.msi",
+    "repoUrl": "https://github.com/audacity/audacity",
+    "releaseDate": "2026-11-02"
+  },
+  {
+    "id": "upscayl",
+    "title": "Upscayl",
+    "shortDescription": "AI image upscaler to sharpen low-resolution pictures.",
+    "description": "AI image upscaler to sharpen low-resolution pictures.\n\n🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/upscayl.png?size=200",
+    "screenshots": [
+      "https://github.com/user-attachments/assets/7626b7c6-e673-45ee-ac9a-3392e643f54f",
+      "https://github.com/user-attachments/assets/24670320-997d-4d62-9bca-955c59fe883d",
+      "https://user-images.githubusercontent.com/25067102/209297095-a3db856f-b760-40bb-a68e-f3a3086e18c7.png",
+      "https://user-images.githubusercontent.com/25067102/191270389-9de37c0f-39a8-41f1-a659-8dd4e7b8ac28.png",
+      "https://user-images.githubusercontent.com/25067102/191269445-87050a77-c304-4284-9ea0-699721309c59.png",
+      "https://user-images.githubusercontent.com/25067102/154570688-9e143f2b-fee3-4b05-a9d2-a7a3013b2b51.png"
+    ],
+    "youtube": "",
+    "category": "Media",
+    "tags": [
+      "windows",
+      "media",
+      "upscayl",
+      "open-source"
+    ],
+    "version": "2.15.0",
+    "size": "249 MB",
+    "platform": "Windows",
+    "stars": 52063,
+    "rating": null,
+    "downloadUrl": "https://github.com/upscayl/upscayl/releases/download/v2.15.0/upscayl-2.15.0-win.exe",
+    "repoUrl": "https://github.com/upscayl/upscayl",
+    "releaseDate": "2024-12-25"
+  },
+  {
+    "id": "telegram-desktop",
+    "title": "Telegram Desktop",
+    "shortDescription": "Official Telegram app for Windows.",
+    "description": "Official Telegram app for Windows.\n\nTelegram Desktop messaging app\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/telegramdesktop.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/telegramdesktop/tdesktop"
+    ],
+    "youtube": "",
+    "category": "Communication",
+    "tags": [
+      "windows",
+      "communication",
+      "tdesktop",
+      "open-source"
+    ],
+    "version": "7.4.1",
+    "size": "62.5 MB",
+    "platform": "Windows",
+    "stars": 33510,
+    "rating": null,
+    "downloadUrl": "https://github.com/telegramdesktop/tdesktop/releases/download/v7.4.1/td-setup-win-x64-7.4.1.exe",
+    "repoUrl": "https://github.com/telegramdesktop/tdesktop",
+    "releaseDate": "2026-11-06"
+  },
+  {
+    "id": "vesktop",
+    "title": "Vesktop",
+    "shortDescription": "A lightweight Discord client with Vencord built in.",
+    "description": "A lightweight Discord client with Vencord built in.\n\nVesktop is a custom Discord App aiming to give you better performance and improve linux support\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/Vencord.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/Vencord/Vesktop"
+    ],
+    "youtube": "",
+    "category": "Communication",
+    "tags": [
+      "windows",
+      "communication",
+      "vesktop",
+      "open-source"
+    ],
+    "version": "1.6.9",
+    "size": "227 MB",
+    "platform": "Windows",
+    "stars": 8592,
+    "rating": null,
+    "downloadUrl": "https://github.com/Vencord/Vesktop/releases/download/v1.6.9/Vesktop-Setup-1.6.9.exe",
+    "repoUrl": "https://github.com/Vencord/Vesktop",
+    "releaseDate": "2026-11-05"
+  },
+  {
+    "id": "chatterino",
+    "title": "Chatterino",
+    "shortDescription": "Fast Twitch chat client.",
+    "description": "Fast Twitch chat client.\n\nChat client for https://twitch.tv\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/chatterino.png?size=200",
+    "screenshots": [
+      "https://user-images.githubusercontent.com/41973452/272541622-52457e89-5f16-4c83-93e7-91866c25b606.png"
+    ],
+    "youtube": "",
+    "category": "Communication",
+    "tags": [
+      "windows",
+      "communication",
+      "chatterino2",
+      "open-source"
+    ],
+    "version": "2.5.6",
+    "size": "39.1 MB",
+    "platform": "Windows",
+    "stars": 2597,
+    "rating": null,
+    "downloadUrl": "https://github.com/Chatterino/chatterino2/releases/download/v2.5.6/Chatterino.Installer.exe",
+    "repoUrl": "https://github.com/Chatterino/chatterino2",
+    "releaseDate": "2026-10-04"
+  },
+  {
+    "id": "obsidian",
+    "title": "Obsidian",
+    "shortDescription": "Markdown notes with linking and a huge plugin ecosystem.",
+    "description": "Markdown notes with linking and a huge plugin ecosystem.\n\nCommunity plugins list, theme list, and releases of Obsidian.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/obsidianmd.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/obsidianmd/obsidian-releases"
+    ],
+    "youtube": "",
+    "category": "Productivity",
+    "tags": [
+      "windows",
+      "productivity",
+      "obsidian-releases",
+      "open-source"
+    ],
+    "version": "1.15.0",
+    "size": "324 MB",
+    "platform": "Windows",
+    "stars": 23184,
+    "rating": null,
+    "downloadUrl": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.15.0/Obsidian-1.15.0.exe",
+    "repoUrl": "https://github.com/obsidianmd/obsidian-releases",
+    "releaseDate": "2026-11-02"
+  },
+  {
+    "id": "joplin",
+    "title": "Joplin",
+    "shortDescription": "Open-source note-taking with sync and end-to-end encryption.",
+    "description": "Open-source note-taking with sync and end-to-end encryption.\n\nJoplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/laurent22.png?size=200",
+    "screenshots": [
+      "https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/WebsiteAssets/images/home-top-img.png",
+      "https://avatars2.githubusercontent.com/u/552452?s=96&v=4",
+      "https://avatars2.githubusercontent.com/u/215668?s=96&v=4",
+      "https://avatars2.githubusercontent.com/u/67130?s=96&v=4",
+      "https://avatars2.githubusercontent.com/u/1177810?s=96&v=4",
+      "https://avatars2.githubusercontent.com/u/8030470?s=96&v=4"
+    ],
+    "youtube": "",
+    "category": "Productivity",
+    "tags": [
+      "windows",
+      "productivity",
+      "joplin",
+      "open-source"
+    ],
+    "version": "3.7.22",
+    "size": "352 MB",
+    "platform": "Windows",
+    "stars": 57112,
+    "rating": null,
+    "downloadUrl": "https://github.com/laurent22/joplin/releases/download/v3.7.22/Joplin-Setup-3.7.22.exe",
+    "repoUrl": "https://github.com/laurent22/joplin",
+    "releaseDate": "2026-10-28"
+  },
+  {
+    "id": "logseq",
+    "title": "Logseq",
+    "shortDescription": "Privacy-first outliner and knowledge base.",
+    "description": "Privacy-first outliner and knowledge base.\n\nA privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/logseq.png?size=200",
+    "screenshots": [
+      "https://user-images.githubusercontent.com/25513724/221387376-4dc419c2-0d0a-460c-a920-2d211e78b456.gif",
+      "https://user-images.githubusercontent.com/25513724/220608753-f33db466-af72-4611-b603-411440c15ed0.png?sanatize=true"
+    ],
+    "youtube": "",
+    "category": "Productivity",
+    "tags": [
+      "windows",
+      "productivity",
+      "logseq",
+      "open-source"
+    ],
+    "version": "2.0.2",
+    "size": "146 MB",
+    "platform": "Windows",
+    "stars": 45530,
+    "rating": null,
+    "downloadUrl": "https://github.com/logseq/logseq/releases/download/2.0.2/Logseq-win-x64-2.0.2-nsis.exe",
+    "repoUrl": "https://github.com/logseq/logseq",
+    "releaseDate": "2026-10-07"
+  },
+  {
+    "id": "appflowy",
+    "title": "AppFlowy",
+    "shortDescription": "Open-source Notion alternative.",
+    "description": "Open-source Notion alternative.\n\nBring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/AppFlowy-IO.png?size=200",
+    "screenshots": [
+      "https://github.com/user-attachments/assets/1c12d629-40a0-4f35-9451-97498cf31a25",
+      "https://github.com/user-attachments/assets/0cff82d3-3e40-4057-a5fa-b2e9be8dd863",
+      "https://github.com/user-attachments/assets/388224f4-0792-4e75-96d1-f1c671b298a3",
+      "https://github.com/user-attachments/assets/ae0cadf2-bb6f-496e-8f84-4916dce1fa62",
+      "https://github.com/user-attachments/assets/619ea154-f714-4859-ad28-4f0bdf5028f7",
+      "https://github.com/user-attachments/assets/5841c491-b564-4a26-b9b6-191def430911"
+    ],
+    "youtube": "",
+    "category": "Productivity",
+    "tags": [
+      "windows",
+      "productivity",
+      "appflowy",
+      "open-source"
+    ],
+    "version": "0.15.0",
+    "size": "89.9 MB",
+    "platform": "Windows",
+    "stars": 78535,
+    "rating": null,
+    "downloadUrl": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.15.0/AppFlowy-0.15.0-windows-x86_64.exe",
+    "repoUrl": "https://github.com/AppFlowy-IO/AppFlowy",
+    "releaseDate": "2026-11-02"
+  },
+  {
+    "id": "affine",
+    "title": "AFFiNE",
+    "shortDescription": "Notes, docs and whiteboards in one workspace.",
+    "description": "Notes, docs and whiteboards in one workspace.\n\nThere can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. \n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/toeverything.png?size=200",
+    "screenshots": [
+      "https://cdn.affine.pro/Github_hero_image2.png",
+      "https://user-images.githubusercontent.com/79301703/230891830-0110681e-8c7e-483b-b6d9-9e42b291b9ef.gif"
+    ],
+    "youtube": "",
+    "category": "Productivity",
+    "tags": [
+      "windows",
+      "productivity",
+      "affine",
+      "open-source"
+    ],
+    "version": "2026.11.9-canary.907",
+    "size": "207 MB",
+    "platform": "Windows",
+    "stars": 74377,
+    "rating": null,
+    "downloadUrl": "https://github.com/toeverything/AFFiNE/releases/download/v2026.11.9-canary.907/affine-2026.11.9-canary.907-canary-macos-x64.zip",
+    "repoUrl": "https://github.com/toeverything/AFFiNE",
+    "releaseDate": "2026-11-09"
+  },
+  {
+    "id": "notesnook",
+    "title": "Notesnook",
+    "shortDescription": "End-to-end encrypted private notes.",
+    "description": "End-to-end encrypted private notes.\n\nA fully open source & end-to-end encrypted note taking alternative to Evernote.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/streetwriters.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/streetwriters/notesnook"
+    ],
+    "youtube": "",
+    "category": "Productivity",
+    "tags": [
+      "windows",
+      "productivity",
+      "notesnook",
+      "open-source"
+    ],
+    "version": "3.4.12",
+    "size": "183 MB",
+    "platform": "Windows",
+    "stars": 14903,
+    "rating": null,
+    "downloadUrl": "https://github.com/streetwriters/notesnook/releases/download/v3.4.12/notesnook_win.exe",
+    "repoUrl": "https://github.com/streetwriters/notesnook",
+    "releaseDate": "2026-11-02"
+  },
+  {
+    "id": "calibre",
+    "title": "Calibre",
+    "shortDescription": "Complete eBook manager and converter.",
+    "description": "Complete eBook manager and converter.\n\nThe official source code repository for the calibre ebook manager\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/kovidgoyal.png?size=200",
+    "screenshots": [
+      "https://raw.githubusercontent.com/kovidgoyal/calibre/master/resources/images/lt.png"
+    ],
+    "youtube": "",
+    "category": "Productivity",
+    "tags": [
+      "windows",
+      "productivity",
+      "calibre",
+      "open-source"
+    ],
+    "version": "9.18.0",
+    "size": "278 MB",
+    "platform": "Windows",
+    "stars": 26392,
+    "rating": null,
+    "downloadUrl": "https://github.com/kovidgoyal/calibre/releases/download/v9.18.0/calibre-64bit-9.18.0.msi",
+    "repoUrl": "https://github.com/kovidgoyal/calibre",
+    "releaseDate": "2026-11-06"
+  },
+  {
+    "id": "git-for-windows",
+    "title": "Git for Windows",
+    "shortDescription": "Git and Git Bash for Windows.",
+    "description": "Git and Git Bash for Windows.\n\nA fork of Git containing Windows-specific patches.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/git-for-windows.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/git-for-windows/git"
+    ],
+    "youtube": "",
+    "category": "Developer Tools",
+    "tags": [
+      "windows",
+      "developer-tools",
+      "git",
+      "open-source"
+    ],
+    "version": "2.56.0.windows.4",
+    "size": "63.8 MB",
+    "platform": "Windows",
+    "stars": 9493,
+    "rating": null,
+    "downloadUrl": "https://github.com/git-for-windows/git/releases/download/v2.56.0.windows.4/Git-2.56.0.4-64-bit.exe",
+    "repoUrl": "https://github.com/git-for-windows/git",
+    "releaseDate": "2026-10-26"
+  },
+  {
+    "id": "github-desktop",
+    "title": "GitHub Desktop",
+    "shortDescription": "Simple Git workflow with a graphical interface.",
+    "description": "Simple Git workflow with a graphical interface.\n\nFocus on what matters instead of fighting with Git.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/desktop.png?size=200",
+    "screenshots": [
+      "https://user-images.githubusercontent.com/634063/202742985-bb3b3b94-8aca-404a-8d8a-fd6a6f030672.png"
+    ],
+    "youtube": "",
+    "category": "Developer Tools",
+    "tags": [
+      "windows",
+      "developer-tools",
+      "desktop",
+      "open-source"
+    ],
+    "version": "release-3.6.10",
+    "size": "257 MB",
+    "platform": "Windows",
+    "stars": 22069,
+    "rating": null,
+    "downloadUrl": "https://github.com/desktop/desktop/releases/download/release-3.6.10/GitHubDesktopSetup-x64.msi",
+    "repoUrl": "https://github.com/desktop/desktop",
+    "releaseDate": "2026-10-30"
+  },
+  {
+    "id": "windows-terminal",
+    "title": "Windows Terminal",
+    "shortDescription": "Modern terminal with tabs for PowerShell, CMD and WSL.",
+    "description": "Modern terminal with tabs for PowerShell, CMD and WSL.\n\nThe new Windows Terminal and the original Windows console host, all in the same place!\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/microsoft.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/microsoft/terminal"
+    ],
+    "youtube": "",
+    "category": "Developer Tools",
+    "tags": [
+      "windows",
+      "developer-tools",
+      "terminal",
+      "open-source"
+    ],
+    "version": "1.25.2733.0",
+    "size": "40.9 MB",
+    "platform": "Windows",
+    "stars": 105356,
+    "rating": null,
+    "downloadUrl": "https://github.com/microsoft/terminal/releases/download/v1.25.2733.0/Microsoft.WindowsTerminal_1.25.2733.0_8wekyb3d8bbwe.msixbundle_Windows10_PreinstallKit.zip",
+    "repoUrl": "https://github.com/microsoft/terminal",
+    "releaseDate": "2026-10-02"
+  },
+  {
+    "id": "wezterm",
+    "title": "WezTerm",
+    "shortDescription": "GPU-accelerated cross-platform terminal.",
+    "description": "GPU-accelerated cross-platform terminal.\n\nA GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/wez.png?size=200",
+    "screenshots": [
+      "https://raw.githubusercontent.com/wez/wezterm/main/docs/screenshots/two.png"
+    ],
+    "youtube": "",
+    "category": "Developer Tools",
+    "tags": [
+      "windows",
+      "developer-tools",
+      "wezterm",
+      "open-source"
+    ],
+    "version": "20240203-110809-5046fc22",
+    "size": "40.4 MB",
+    "platform": "Windows",
+    "stars": 29497,
+    "rating": null,
+    "downloadUrl": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-20240203-110809-5046fc22-setup.exe",
+    "repoUrl": "https://github.com/wezterm/wezterm",
+    "releaseDate": "2024-02-03"
+  },
+  {
+    "id": "tabby",
+    "title": "Tabby",
+    "shortDescription": "Highly configurable terminal and SSH client.",
+    "description": "Highly configurable terminal and SSH client.\n\nA terminal for a more modern age\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/Eugeny.png?size=200",
+    "screenshots": [
+      "https://raw.githubusercontent.com/Eugeny/tabby/master/docs/readme.png",
+      "https://raw.githubusercontent.com/Eugeny/tabby/master/docs/readme-terminal.png",
+      "https://raw.githubusercontent.com/Eugeny/tabby/master/docs/readme-ssh.png",
+      "https://user-images.githubusercontent.com/161476/200423885-7aba2202-fea7-4409-95b9-3a062ce902c7.png",
+      "https://avatars2.githubusercontent.com/u/184085?v=4?s=100",
+      "https://avatars1.githubusercontent.com/u/3991658?v=4?s=100"
+    ],
+    "youtube": "",
+    "category": "Developer Tools",
+    "tags": [
+      "windows",
+      "developer-tools",
+      "tabby",
+      "open-source"
+    ],
+    "version": "1.0.238",
+    "size": "162 MB",
+    "platform": "Windows",
+    "stars": 75345,
+    "rating": null,
+    "downloadUrl": "https://github.com/Eugeny/tabby/releases/download/v1.0.238/tabby-1.0.238-setup-x64.exe",
+    "repoUrl": "https://github.com/Eugeny/tabby",
+    "releaseDate": "2026-10-07"
+  },
+  {
+    "id": "vscodium",
+    "title": "VSCodium",
+    "shortDescription": "VS Code builds without Microsoft telemetry.",
+    "description": "VS Code builds without Microsoft telemetry.\n\nbinary releases of VS Code without MS branding/telemetry/licensing\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/VSCodium.png?size=200",
+    "screenshots": [
+      "https://avatars.githubusercontent.com/u/34448643"
+    ],
+    "youtube": "",
+    "category": "Developer Tools",
+    "tags": [
+      "windows",
+      "developer-tools",
+      "vscodium",
+      "open-source"
+    ],
+    "version": "1.143.17232",
+    "size": "157 MB",
+    "platform": "Windows",
+    "stars": 34023,
+    "rating": null,
+    "downloadUrl": "https://github.com/VSCodium/vscodium/releases/download/1.143.17232/VSCodiumSetup-x64-1.143.17232.exe",
+    "repoUrl": "https://github.com/VSCodium/vscodium",
+    "releaseDate": "2026-10-28"
+  },
+  {
+    "id": "notepad-plus-plus",
+    "title": "Notepad++",
+    "shortDescription": "Fast text and source code editor.",
+    "description": "Fast text and source code editor.\n\nNotepad++ official repository\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/notepad-plus-plus.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/notepad-plus-plus/notepad-plus-plus"
+    ],
+    "youtube": "",
+    "category": "Developer Tools",
+    "tags": [
+      "windows",
+      "developer-tools",
+      "notepad-plus-plus",
+      "open-source"
+    ],
+    "version": "8.9.9",
+    "size": "7.5 MB",
+    "platform": "Windows",
+    "stars": 29822,
+    "rating": null,
+    "downloadUrl": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9/npp.8.9.9.Installer.x64.msi",
+    "repoUrl": "https://github.com/notepad-plus-plus/notepad-plus-plus",
+    "releaseDate": "2026-11-06"
+  },
+  {
+    "id": "neovim",
+    "title": "Neovim",
+    "shortDescription": "Hyperextensible Vim-based text editor.",
+    "description": "Hyperextensible Vim-based text editor.\n\nVim-fork focused on extensibility and usability\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/neovim.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/neovim/neovim"
+    ],
+    "youtube": "",
+    "category": "Developer Tools",
+    "tags": [
+      "windows",
+      "developer-tools",
+      "neovim",
+      "open-source"
+    ],
+    "version": "0.12.6",
+    "size": "11.9 MB",
+    "platform": "Windows",
+    "stars": 103518,
+    "rating": null,
+    "downloadUrl": "https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-win64.msi",
+    "repoUrl": "https://github.com/neovim/neovim",
+    "releaseDate": "2026-10-09"
+  },
+  {
+    "id": "insomnia",
+    "title": "Insomnia",
+    "shortDescription": "API client for REST, GraphQL and gRPC.",
+    "description": "API client for REST, GraphQL and gRPC.\n\nThe open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/Kong.png?size=200",
+    "screenshots": [
+      "https://raw.githubusercontent.com/Kong/insomnia/develop/screenshots/main.png"
+    ],
+    "youtube": "",
+    "category": "Developer Tools",
+    "tags": [
+      "windows",
+      "developer-tools",
+      "insomnia",
+      "open-source"
+    ],
+    "version": "core@13.4.0",
+    "size": "90.9 MB",
+    "platform": "Windows",
+    "stars": 40132,
+    "rating": null,
+    "downloadUrl": "https://github.com/Kong/insomnia/releases/download/core%4013.4.0/inso-windows-13.4.0.zip",
+    "repoUrl": "https://github.com/Kong/insomnia",
+    "releaseDate": "2026-10-29"
+  },
+  {
+    "id": "bruno",
+    "title": "Bruno",
+    "shortDescription": "Open-source API client, a lightweight Postman alternative.",
+    "description": "Open-source API client, a lightweight Postman alternative.\n\nOpensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/usebruno.png?size=200",
+    "screenshots": [
+      "https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/landing-2-dark.png#gh-light-mode-only",
+      "https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/landing-2-light.png#gh-dark-mode-only",
+      "https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/run-anywhere.png",
+      "https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/version-control.png"
+    ],
+    "youtube": "",
+    "category": "Developer Tools",
+    "tags": [
+      "windows",
+      "developer-tools",
+      "bruno",
+      "open-source"
+    ],
+    "version": "4.3.0",
+    "size": "129 MB",
+    "platform": "Windows",
+    "stars": 48300,
+    "rating": null,
+    "downloadUrl": "https://github.com/usebruno/bruno/releases/download/v4.3.0/bruno_4.3.0_x64_win.msi",
+    "repoUrl": "https://github.com/usebruno/bruno",
+    "releaseDate": "2026-10-22"
+  },
+  {
+    "id": "dbeaver",
+    "title": "DBeaver",
+    "shortDescription": "Universal database manager.",
+    "description": "Universal database manager.\n\nFree universal database tool and SQL client\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/dbeaver.png?size=200",
+    "screenshots": [
+      "https://dbeaver.io/product/dbeaver-sql-editor.png",
+      "https://dbeaver.io/product/dbeaver-gis-viewer.png",
+      "https://dbeaver.io/product/dbeaver-data-editor.png",
+      "https://dbeaver.io/product/dbeaver-erd.png"
+    ],
+    "youtube": "",
+    "category": "Developer Tools",
+    "tags": [
+      "windows",
+      "developer-tools",
+      "dbeaver",
+      "open-source"
+    ],
+    "version": "26.2.4",
+    "size": "110 MB",
+    "platform": "Windows",
+    "stars": 52365,
+    "rating": null,
+    "downloadUrl": "https://github.com/dbeaver/dbeaver/releases/download/26.2.4/dbeaver-ce-26.2.4-windows-x86_64.exe",
+    "repoUrl": "https://github.com/dbeaver/dbeaver",
+    "releaseDate": "2026-11-01"
+  },
+  {
+    "id": "ghidra",
+    "title": "Ghidra",
+    "shortDescription": "Software reverse engineering framework.",
+    "description": "Software reverse engineering framework.\n\nGhidra is a software reverse engineering (SRE) framework\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/NationalSecurityAgency.png?size=200",
+    "screenshots": [
+      "https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/master/Ghidra/Features/Base/src/main/resources/images/GHIDRA_3.png"
+    ],
+    "youtube": "",
+    "category": "Developer Tools",
+    "tags": [
+      "windows",
+      "developer-tools",
+      "ghidra",
+      "open-source"
+    ],
+    "version": "Ghidra_12.2_build",
+    "size": "543 MB",
+    "platform": "Windows",
+    "stars": 98926,
+    "rating": null,
+    "downloadUrl": "https://github.com/NationalSecurityAgency/ghidra/releases/download/Ghidra_12.2_build/ghidra_12.2_PUBLIC_20261016.zip",
+    "repoUrl": "https://github.com/NationalSecurityAgency/ghidra",
+    "releaseDate": "2026-10-22"
+  },
+  {
+    "id": "x64dbg",
+    "title": "x64dbg",
+    "shortDescription": "Open-source debugger for Windows.",
+    "description": "Open-source debugger for Windows.\n\nAn open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/x64dbg.png?size=200",
+    "screenshots": [
+      "https://raw.githubusercontent.com/x64dbg/x64dbg/development/.github/screenshots/cpu-light.png",
+      "https://raw.githubusercontent.com/x64dbg/x64dbg/development/.github/screenshots/cpu-dark.png",
+      "https://raw.githubusercontent.com/x64dbg/x64dbg/development/.github/screenshots/graph-light.png",
+      "https://raw.githubusercontent.com/x64dbg/x64dbg/development/.github/screenshots/memory-map-light.png",
+      "https://github.com/x64dbg/x64dbg/raw/development/src/bug_black.png"
+    ],
+    "youtube": "",
+    "category": "Developer Tools",
+    "tags": [
+      "windows",
+      "developer-tools",
+      "x64dbg",
+      "open-source"
+    ],
+    "version": "2026.05.27",
+    "size": "102 KB",
+    "platform": "Windows",
+    "stars": 50255,
+    "rating": null,
+    "downloadUrl": "https://github.com/x64dbg/x64dbg/releases/download/2026.05.27/x64dbg-pluginsdk-cmake.zip",
+    "repoUrl": "https://github.com/x64dbg/x64dbg",
+    "releaseDate": "2026-05-27"
+  },
+  {
+    "id": "imhex",
+    "title": "ImHex",
+    "shortDescription": "Feature-rich hex editor for reverse engineers.",
+    "description": "Feature-rich hex editor for reverse engineers.\n\n🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/WerWolv.png?size=200",
+    "screenshots": [
+      "https://avatars.githubusercontent.com/u/878437?s=48",
+      "https://avatars.githubusercontent.com/u/34448643?s=48",
+      "https://avatars.githubusercontent.com/u/2232217?s=48",
+      "https://github.com/user-attachments/assets/902a7c4c-410d-490f-999e-14c856fec027",
+      "https://github.com/user-attachments/assets/58eefa1f-31c9-4bb8-a1c1-8cdd8ddbd29f",
+      "https://raw.githubusercontent.com/WerWolv/ImHex/master/resources/dist/common/get_release_banner.png"
+    ],
+    "youtube": "",
+    "category": "Developer Tools",
+    "tags": [
+      "windows",
+      "developer-tools",
+      "imhex",
+      "open-source"
+    ],
+    "version": "1.38.1",
+    "size": "36.5 MB",
+    "platform": "Windows",
+    "stars": 55800,
+    "rating": null,
+    "downloadUrl": "https://github.com/WerWolv/ImHex/releases/download/v1.38.1/imhex-1.38.1-Windows-x86_64.msi",
+    "repoUrl": "https://github.com/WerWolv/ImHex",
+    "releaseDate": "2025-12-21"
+  },
+  {
+    "id": "rufus",
+    "title": "Disk Tools",
+    "description": "undefined\n\nThe Reliable USB Formatting Utility\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/pbatard.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/pbatard/rufus"
+    ],
+    "youtube": "",
+    "category": "Create bootable USB drives quickly.",
+    "tags": [
+      "windows",
+      "create-bootable-usb-drives-quickly.",
+      "rufus",
+      "open-source"
+    ],
+    "version": "4.15",
+    "size": "1.9 MB",
+    "platform": "Windows",
+    "stars": 38293,
+    "rating": null,
+    "downloadUrl": "https://github.com/pbatard/rufus/releases/download/v4.15/rufus-4.15.exe",
+    "repoUrl": "https://github.com/pbatard/rufus",
+    "releaseDate": "2026-06-30"
+  },
+  {
+    "id": "balena-etcher",
+    "title": "balenaEtcher",
+    "shortDescription": "Flash OS images to USB drives and SD cards.",
+    "description": "Flash OS images to USB drives and SD cards.\n\nFlash OS images to SD cards & USB drives, safely and easily.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/balena-io.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/balena-io/etcher"
+    ],
+    "youtube": "",
+    "category": "Disk Tools",
+    "tags": [
+      "windows",
+      "disk-tools",
+      "etcher",
+      "open-source"
+    ],
+    "version": "2.1.9",
+    "size": "262 MB",
+    "platform": "Windows",
+    "stars": 34676,
+    "rating": null,
+    "downloadUrl": "https://github.com/balena-io/etcher/releases/download/v2.1.9/balenaEtcher-2.1.9.Setup.exe",
+    "repoUrl": "https://github.com/balena-io/etcher",
+    "releaseDate": "2026-10-22"
+  },
+  {
+    "id": "ventoy",
+    "title": "Ventoy",
+    "shortDescription": "Boot many ISO files from a single USB drive.",
+    "description": "Boot many ISO files from a single USB drive.\n\nA new bootable USB solution.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/ventoy.png?size=200",
+    "screenshots": [
+      "https://www.ventoy.net/static/img/screen/screen_uefi.png",
+      "https://www.ventoy.net/static/img/AliPay.png",
+      "https://www.ventoy.net/static/img/WeChatPay.png"
+    ],
+    "youtube": "",
+    "category": "Disk Tools",
+    "tags": [
+      "windows",
+      "disk-tools",
+      "ventoy",
+      "open-source"
+    ],
+    "version": "1.1.18",
+    "size": "15.9 MB",
+    "platform": "Windows",
+    "stars": 80680,
+    "rating": null,
+    "downloadUrl": "https://github.com/ventoy/Ventoy/releases/download/v1.1.18/ventoy-1.1.18-windows.zip",
+    "repoUrl": "https://github.com/ventoy/Ventoy",
+    "releaseDate": "2026-10-09"
+  },
+  {
+    "id": "syncthing",
+    "title": "Syncthing",
+    "shortDescription": "Continuous private file synchronization between devices.",
+    "description": "Continuous private file synchronization between devices.\n\nOpen Source Continuous File Synchronization\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/syncthing.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/syncthing/syncthing"
+    ],
+    "youtube": "",
+    "category": "Disk Tools",
+    "tags": [
+      "windows",
+      "disk-tools",
+      "syncthing",
+      "open-source"
+    ],
+    "version": "2.1.7",
+    "size": "13.3 MB",
+    "platform": "Windows",
+    "stars": 90272,
+    "rating": null,
+    "downloadUrl": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-windows-386-v2.1.7.zip",
+    "repoUrl": "https://github.com/syncthing/syncthing",
+    "releaseDate": "2026-10-21"
+  },
+  {
+    "id": "rustdesk",
+    "title": "RustDesk",
+    "shortDescription": "Open-source remote desktop, an AnyDesk alternative.",
+    "description": "Open-source remote desktop, an AnyDesk alternative.\n\nAn open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/rustdesk.png?size=200",
+    "screenshots": [
+      "https://user-images.githubusercontent.com/71636191/171661982-430285f0-2e12-4b1d-9957-4a58e375304d.png"
+    ],
+    "youtube": "",
+    "category": "Remote Access",
+    "tags": [
+      "windows",
+      "remote-access",
+      "rustdesk",
+      "open-source"
+    ],
+    "version": "1.5.1",
+    "size": "25.5 MB",
+    "platform": "Windows",
+    "stars": 128738,
+    "rating": null,
+    "downloadUrl": "https://github.com/rustdesk/rustdesk/releases/download/1.5.1/rustdesk-1.5.1-x86_64.msi",
+    "repoUrl": "https://github.com/rustdesk/rustdesk",
+    "releaseDate": "2026-11-01"
+  },
+  {
+    "id": "sunshine",
+    "title": "Sunshine",
+    "shortDescription": "Self-hosted game streaming host for Moonlight.",
+    "description": "Self-hosted game streaming host for Moonlight.\n\nSelf-hosted game stream host for Moonlight.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/LizardByte.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/LizardByte/Sunshine"
+    ],
+    "youtube": "",
+    "category": "Remote Access",
+    "tags": [
+      "windows",
+      "remote-access",
+      "sunshine",
+      "open-source"
+    ],
+    "version": "2026.914.233613",
+    "size": "32.1 MB",
+    "platform": "Windows",
+    "stars": 43180,
+    "rating": null,
+    "downloadUrl": "https://github.com/LizardByte/Sunshine/releases/download/v2026.914.233613/Sunshine-Windows-AMD64-installer.msi",
+    "repoUrl": "https://github.com/LizardByte/Sunshine",
+    "releaseDate": "2026-09-15"
+  },
+  {
+    "id": "moonlight-qt",
+    "title": "Moonlight",
+    "shortDescription": "Stream your PC games to other devices.",
+    "description": "Stream your PC games to other devices.\n\nGameStream client for PCs (Windows, Mac, Linux, and Steam Link)\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/moonlight-stream.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/moonlight-stream/moonlight-qt"
+    ],
+    "youtube": "",
+    "category": "Remote Access",
+    "tags": [
+      "windows",
+      "remote-access",
+      "moonlight-qt",
+      "open-source"
+    ],
+    "version": "6.2.0",
+    "size": "53.3 MB",
+    "platform": "Windows",
+    "stars": 19429,
+    "rating": null,
+    "downloadUrl": "https://github.com/moonlight-stream/moonlight-qt/releases/download/v6.2.0/MoonlightSetup-6.2.0.exe",
+    "repoUrl": "https://github.com/moonlight-stream/moonlight-qt",
+    "releaseDate": "2026-10-04"
+  },
+  {
+    "id": "playnite",
+    "title": "Playnite",
+    "shortDescription": "All your game launchers in one library.",
+    "description": "All your game launchers in one library.\n\nVideo game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/JosefNemec.png?size=200",
+    "screenshots": [
+      "https://user-images.githubusercontent.com/3874087/128503363-9c39f8cd-9900-4a8b-83f2-81359d4fc731.PNG"
+    ],
+    "youtube": "",
+    "category": "Gaming",
+    "tags": [
+      "windows",
+      "gaming",
+      "playnite",
+      "open-source"
+    ],
+    "version": "10.63",
+    "size": "4.2 MB",
+    "platform": "Windows",
+    "stars": 14488,
+    "rating": null,
+    "downloadUrl": "https://github.com/JosefNemec/Playnite/releases/download/10.63/1061to1063.exe",
+    "repoUrl": "https://github.com/JosefNemec/Playnite",
+    "releaseDate": "2026-10-19"
+  },
+  {
+    "id": "heroic-games-launcher",
+    "title": "Heroic Games Launcher",
+    "shortDescription": "Open-source launcher for Epic, GOG and Amazon games.",
+    "description": "Open-source launcher for Epic, GOG and Amazon games.\n\nA games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/Heroic-Games-Launcher.png?size=200",
+    "screenshots": [
+      "https://user-images.githubusercontent.com/26871415/182468471-6ef4aac6-a4e2-4ae8-93ef-d638cd01627d.png"
+    ],
+    "youtube": "",
+    "category": "Gaming",
+    "tags": [
+      "windows",
+      "gaming",
+      "heroicgameslauncher",
+      "open-source"
+    ],
+    "version": "2.22.4",
+    "size": "148 MB",
+    "platform": "Windows",
+    "stars": 12603,
+    "rating": null,
+    "downloadUrl": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.22.4/Heroic-2.22.4-Setup-x64.exe",
+    "repoUrl": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher",
+    "releaseDate": "2026-10-15"
+  },
+  {
+    "id": "prismlauncher",
+    "title": "Prism Launcher",
+    "shortDescription": "Minecraft launcher with multiple instances.",
+    "description": "Minecraft launcher with multiple instances.\n\nA custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/PrismLauncher.png?size=200",
+    "screenshots": [
+      "https://discordapp.com/api/guilds/1031648380885147709/widget.png?style=banner3"
+    ],
+    "youtube": "",
+    "category": "Gaming",
+    "tags": [
+      "windows",
+      "gaming",
+      "prismlauncher",
+      "open-source"
+    ],
+    "version": "11.1.1",
+    "size": "42.4 MB",
+    "platform": "Windows",
+    "stars": 11085,
+    "rating": null,
+    "downloadUrl": "https://github.com/PrismLauncher/PrismLauncher/releases/download/11.1.1/PrismLauncher-Windows-MinGW-w64-Setup-11.1.1.exe",
+    "repoUrl": "https://github.com/PrismLauncher/PrismLauncher",
+    "releaseDate": "2026-09-28"
+  },
+  {
+    "id": "mod-organizer-2",
+    "title": "Mod Organizer 2",
+    "shortDescription": "Mod manager for Skyrim, Fallout and more.",
+    "description": "Mod manager for Skyrim, Fallout and more.\n\nMod manager for various PC games. Discord Server: https://discord.gg/ewUVAqyrQX if you would like to be more involved                                                           \n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/ModOrganizer2.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/ModOrganizer2/modorganizer"
+    ],
+    "youtube": "",
+    "category": "Gaming",
+    "tags": [
+      "windows",
+      "gaming",
+      "modorganizer",
+      "open-source"
+    ],
+    "version": "2.5.2",
+    "size": "141 MB",
+    "platform": "Windows",
+    "stars": 3159,
+    "rating": null,
+    "downloadUrl": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.2/Mod.Organizer-2.5.2.exe",
+    "repoUrl": "https://github.com/ModOrganizer2/modorganizer",
+    "releaseDate": "2024-08-04"
+  },
+  {
+    "id": "pcsx2",
+    "title": "PCSX2",
+    "shortDescription": "PlayStation 2 emulator.",
+    "description": "PlayStation 2 emulator.\n\nPCSX2 - The Playstation 2 Emulator\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/PCSX2.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/PCSX2/pcsx2"
+    ],
+    "youtube": "",
+    "category": "Emulators",
+    "tags": [
+      "windows",
+      "emulators",
+      "pcsx2",
+      "open-source"
+    ],
+    "version": "2.9.167",
+    "size": "30.2 MB",
+    "platform": "Windows",
+    "stars": 16027,
+    "rating": null,
+    "downloadUrl": "https://github.com/PCSX2/pcsx2/releases/download/v2.9.167/pcsx2-v2.9.167-windows-x64-Qt.7z",
+    "repoUrl": "https://github.com/PCSX2/pcsx2",
+    "releaseDate": "2026-11-09"
+  },
+  {
+    "id": "rpcs3",
+    "title": "RPCS3",
+    "shortDescription": "PlayStation 3 emulator.",
+    "description": "PlayStation 3 emulator.\n\nRepository for Windows x64 binaries\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/RPCS3.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/RPCS3/rpcs3-binaries-win"
+    ],
+    "youtube": "",
+    "category": "Emulators",
+    "tags": [
+      "windows",
+      "emulators",
+      "rpcs3-binaries-win",
+      "open-source"
+    ],
+    "version": "build-fff0c96bf38d1ada075e524c4753a7f263c06449",
+    "size": "19.0 MB",
+    "platform": "Windows",
+    "stars": 296,
+    "rating": null,
+    "downloadUrl": "https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-fff0c96bf38d1ada075e524c4753a7f263c06449/rpcs3-v0.0.18-12817-fff0c96b_win64.7z",
+    "repoUrl": "https://github.com/RPCS3/rpcs3-binaries-win",
+    "releaseDate": "2021-09-24"
+  },
+  {
+    "id": "duckstation",
+    "title": "DuckStation",
+    "shortDescription": "PlayStation 1 emulator.",
+    "description": "PlayStation 1 emulator.\n\nFast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/stenzek.png?size=200",
+    "screenshots": [
+      "https://raw.githubusercontent.com/stenzek/duckstation/md-images/main-qt.png",
+      "https://raw.githubusercontent.com/stenzek/duckstation/md-images/bigduck.png"
+    ],
+    "youtube": "",
+    "category": "Emulators",
+    "tags": [
+      "windows",
+      "emulators",
+      "duckstation",
+      "open-source"
+    ],
+    "version": "latest",
+    "size": "44.4 MB",
+    "platform": "Windows",
+    "stars": 10972,
+    "rating": null,
+    "downloadUrl": "https://github.com/stenzek/duckstation/releases/download/latest/duckstation-windows-x64-installer.exe",
+    "repoUrl": "https://github.com/stenzek/duckstation",
+    "releaseDate": "2026-11-07"
+  },
+  {
+    "id": "ppsspp",
+    "title": "PPSSPP",
+    "shortDescription": "PSP emulator.",
+    "description": "PSP emulator.\n\nA PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/hrydgard.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/hrydgard/ppsspp"
+    ],
+    "youtube": "",
+    "category": "Emulators",
+    "tags": [
+      "windows",
+      "emulators",
+      "ppsspp",
+      "open-source"
+    ],
+    "version": "1.20.4",
+    "size": "19.4 MB",
+    "platform": "Windows",
+    "stars": 14864,
+    "rating": null,
+    "downloadUrl": "https://github.com/hrydgard/ppsspp/releases/download/v1.20.4/PPSSPP-v1.20.4-Windows-x64.zip",
+    "repoUrl": "https://github.com/hrydgard/ppsspp",
+    "releaseDate": "2026-05-16"
+  },
+  {
+    "id": "cemu",
+    "title": "Cemu",
+    "shortDescription": "Wii U emulator.",
+    "description": "Wii U emulator.\n\nCemu - Wii U emulator\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/cemu-project.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/cemu-project/Cemu"
+    ],
+    "youtube": "",
+    "category": "Emulators",
+    "tags": [
+      "windows",
+      "emulators",
+      "cemu",
+      "open-source"
+    ],
+    "version": "2.6",
+    "size": "30.4 MB",
+    "platform": "Windows",
+    "stars": 10118,
+    "rating": null,
+    "downloadUrl": "https://github.com/cemu-project/Cemu/releases/download/v2.6/cemu-2.6-ubuntu-22.04-x64.zip",
+    "repoUrl": "https://github.com/cemu-project/Cemu",
+    "releaseDate": "2025-02-06"
+  },
+  {
+    "id": "mgba",
+    "title": "mGBA",
+    "shortDescription": "Game Boy Advance emulator.",
+    "description": "Game Boy Advance emulator.\n\nmGBA Game Boy Advance Emulator\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/mgba-emu.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/mgba-emu/mgba"
+    ],
+    "youtube": "",
+    "category": "Emulators",
+    "tags": [
+      "windows",
+      "emulators",
+      "mgba",
+      "open-source"
+    ],
+    "version": "0.10.5",
+    "size": "16.2 MB",
+    "platform": "Windows",
+    "stars": 7580,
+    "rating": null,
+    "downloadUrl": "https://github.com/mgba-emu/mgba/releases/download/0.10.5/mGBA-0.10.5-win32-installer.exe",
+    "repoUrl": "https://github.com/mgba-emu/mgba",
+    "releaseDate": "2025-03-09"
+  },
+  {
+    "id": "vita3k",
+    "title": "Vita3K",
+    "shortDescription": "PlayStation Vita emulator.",
+    "description": "PlayStation Vita emulator.\n\nExperimental PlayStation Vita emulator\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/Vita3K.png?size=200",
+    "screenshots": [
+      "https://raw.githubusercontent.com/Vita3K/Vita3K/master/_readme/screenshots/P4G.png",
+      "https://raw.githubusercontent.com/Vita3K/Vita3K/master/_readme/screenshots/A%20Rose%20in%20the%20Twilight.png",
+      "https://raw.githubusercontent.com/Vita3K/Vita3K/master/_readme/screenshots/Alone%20With%20You.png",
+      "https://raw.githubusercontent.com/Vita3K/Vita3K/master/_readme/screenshots/VA-11%20HALL-A.png",
+      "https://raw.githubusercontent.com/Vita3K/Vita3K/master/_readme/screenshots/Fruit%20Ninja.png",
+      "https://raw.githubusercontent.com/Vita3K/Vita3K/master/_readme/screenshots/Jetpack%20Joyride.png"
+    ],
+    "youtube": "",
+    "category": "Emulators",
+    "tags": [
+      "windows",
+      "emulators",
+      "vita3k",
+      "open-source"
+    ],
+    "version": "continuous",
+    "size": "36.2 MB",
+    "platform": "Windows",
+    "stars": 5957,
+    "rating": null,
+    "downloadUrl": "https://github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip",
+    "repoUrl": "https://github.com/Vita3K/Vita3K",
+    "releaseDate": "2026-11-09"
+  },
+  {
+    "id": "ollama",
+    "title": "Ollama",
+    "shortDescription": "Run large language models locally.",
+    "description": "Run large language models locally.\n\nGet up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/ollama.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/ollama/ollama"
+    ],
+    "youtube": "",
+    "category": "AI Tools",
+    "tags": [
+      "windows",
+      "ai-tools",
+      "ollama",
+      "open-source"
+    ],
+    "version": "0.40.15",
+    "size": "1611 MB",
+    "platform": "Windows",
+    "stars": 186432,
+    "rating": null,
+    "downloadUrl": "https://github.com/ollama/ollama/releases/download/v0.40.15/OllamaSetup.exe",
+    "repoUrl": "https://github.com/ollama/ollama",
+    "releaseDate": "2026-11-03"
+  },
+  {
+    "id": "jan",
+    "title": "Jan",
+    "shortDescription": "Offline ChatGPT-style assistant on your own computer.",
+    "description": "Offline ChatGPT-style assistant on your own computer.\n\nJan is an open source alternative to ChatGPT that runs 100% offline on your computer.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/janhq.png?size=200",
+    "screenshots": [
+      "https://github.com/user-attachments/assets/f3f87889-c133-433b-b250-236218150d3f"
+    ],
+    "youtube": "",
+    "category": "AI Tools",
+    "tags": [
+      "windows",
+      "ai-tools",
+      "jan",
+      "open-source"
+    ],
+    "version": "0.8.8",
+    "size": "545 MB",
+    "platform": "Windows",
+    "stars": 45623,
+    "rating": null,
+    "downloadUrl": "https://github.com/janhq/jan/releases/download/v0.8.8/Jan_0.8.8_x64-setup.exe",
+    "repoUrl": "https://github.com/janhq/jan",
+    "releaseDate": "2026-10-28"
+  },
+  {
+    "id": "chatbox",
+    "title": "Chatbox",
+    "shortDescription": "Desktop client for many AI models and APIs.",
+    "description": "Desktop client for many AI models and APIs.\n\nPowerful AI Client\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/chatboxai.png?size=200",
+    "screenshots": [
+      "https://raw.githubusercontent.com/chatboxai/chatbox/main/doc/statics/snapshot_light.png",
+      "https://raw.githubusercontent.com/chatboxai/chatbox/main/doc/statics/snapshot_dark.png",
+      "https://raw.githubusercontent.com/chatboxai/chatbox/main/doc/statics/windows.png",
+      "https://raw.githubusercontent.com/chatboxai/chatbox/main/doc/statics/mac.png",
+      "https://raw.githubusercontent.com/chatboxai/chatbox/main/doc/statics/linux.png",
+      "https://raw.githubusercontent.com/chatboxai/chatbox/main/doc/statics/app_store.webp"
+    ],
+    "youtube": "",
+    "category": "AI Tools",
+    "tags": [
+      "windows",
+      "ai-tools",
+      "chatbox",
+      "open-source"
+    ],
+    "version": "1.20.3",
+    "size": "195 MB",
+    "platform": "Windows",
+    "stars": 42282,
+    "rating": null,
+    "downloadUrl": "https://github.com/chatboxai/chatbox/releases/download/v1.20.3/Chatbox-1.20.3-Setup.exe",
+    "repoUrl": "https://github.com/chatboxai/chatbox",
+    "releaseDate": "2026-05-31"
+  },
+  {
+    "id": "cherry-studio",
+    "title": "Cherry Studio",
+    "shortDescription": "Desktop AI assistant supporting many LLM providers.",
+    "description": "Desktop AI assistant supporting many LLM providers.\n\nYour AI workspace for models, agents, and productivity.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/CherryHQ.png?size=200",
+    "screenshots": [
+      "https://raw.githubusercontent.com/CherryHQ/cherry-studio/main/.github/images/readme/agent-light-en.webp",
+      "https://raw.githubusercontent.com/CherryHQ/cherry-studio/main/.github/images/readme/chat-light-en.webp",
+      "https://raw.githubusercontent.com/CherryHQ/cherry-studio/main/.github/images/readme/provider-light-en.webp",
+      "https://raw.githubusercontent.com/CherryHQ/cherry-studio/main/.github/images/readme/knowledge-light-en.webp",
+      "https://raw.githubusercontent.com/CherryHQ/cherry-studio/main/.github/images/readme/drawing-light-en.webp"
+    ],
+    "youtube": "",
+    "category": "AI Tools",
+    "tags": [
+      "windows",
+      "ai-tools",
+      "cherry-studio",
+      "open-source"
+    ],
+    "version": "2.1.10",
+    "size": "289 MB",
+    "platform": "Windows",
+    "stars": 53368,
+    "rating": null,
+    "downloadUrl": "https://github.com/CherryHQ/cherry-studio/releases/download/v2.1.10/Cherry-Studio-2.1.10-win-x64-setup.exe",
+    "repoUrl": "https://github.com/CherryHQ/cherry-studio",
+    "releaseDate": "2026-10-31"
+  },
+  {
+    "id": "buzz",
+    "title": "Buzz",
+    "shortDescription": "Offline speech-to-text transcription using Whisper.",
+    "description": "Offline speech-to-text transcription using Whisper.\n\nBuzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/chidiwilliams.png?size=200",
+    "screenshots": [
+      "https://raw.githubusercontent.com/chidiwilliams/buzz/refs/heads/main/buzz/assets/buzz-banner.jpg",
+      "https://github.com/chidiwilliams/buzz/raw/main/share/screenshots/buzz-1-import.png",
+      "https://github.com/chidiwilliams/buzz/raw/main/share/screenshots/buzz-2-main_screen.png",
+      "https://github.com/chidiwilliams/buzz/raw/main/share/screenshots/buzz-3-preferences.png",
+      "https://github.com/chidiwilliams/buzz/raw/main/share/screenshots/buzz-3.2-model-preferences.png",
+      "https://github.com/chidiwilliams/buzz/raw/main/share/screenshots/buzz-4-transcript.png"
+    ],
+    "youtube": "",
+    "category": "AI Tools",
+    "tags": [
+      "windows",
+      "ai-tools",
+      "buzz",
+      "open-source"
+    ],
+    "version": "1.4.5",
+    "size": "4.2 MB",
+    "platform": "Windows",
+    "stars": 22544,
+    "rating": null,
+    "downloadUrl": "https://github.com/chidiwilliams/buzz/releases/download/v1.4.5/Buzz-1.4.5-windows.exe",
+    "repoUrl": "https://github.com/chidiwilliams/buzz",
+    "releaseDate": "2026-08-23"
+  },
+  {
+    "id": "obsproject-obs-studio",
+    "title": "OBS Studio",
+    "shortDescription": "Free screen recording and live streaming software for macOS.",
+    "description": "Free screen recording and live streaming software for macOS.\n\nOBS Studio - Free and open source software for live streaming and screen recording\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/obsproject.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/obsproject/obs-studio"
+    ],
+    "youtube": "",
+    "category": "Media",
+    "tags": [
+      "macos",
+      "media",
+      "obs-studio",
+      "open-source"
+    ],
+    "version": "33.0.1",
+    "size": "200 MB",
+    "platform": "macOS",
+    "stars": 79210,
+    "rating": null,
+    "downloadUrl": "https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-macOS-Apple.dmg",
+    "repoUrl": "https://github.com/obsproject/obs-studio",
+    "releaseDate": "2026-10-29"
+  },
+  {
+    "id": "obsidian-releases",
+    "title": "Obsidian",
+    "shortDescription": "Markdown notes with linking and a huge plugin ecosystem.",
+    "description": "Markdown notes with linking and a huge plugin ecosystem.\n\nCommunity plugins list, theme list, and releases of Obsidian.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/obsidianmd.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/obsidianmd/obsidian-releases"
+    ],
+    "youtube": "",
+    "category": "Productivity",
+    "tags": [
+      "macos",
+      "productivity",
+      "obsidian-releases",
+      "open-source"
+    ],
+    "version": "1.15.0",
+    "size": "222 MB",
+    "platform": "macOS",
+    "stars": 23185,
+    "rating": null,
+    "downloadUrl": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.15.0/Obsidian-1.15.0.dmg",
+    "repoUrl": "https://github.com/obsidianmd/obsidian-releases",
+    "releaseDate": "2026-11-02"
+  },
+  {
+    "id": "laurent22-joplin",
+    "title": "Joplin",
+    "shortDescription": "Open-source note-taking with sync and end-to-end encryption.",
+    "description": "Open-source note-taking with sync and end-to-end encryption.\n\nJoplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/laurent22.png?size=200",
+    "screenshots": [
+      "https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/WebsiteAssets/images/home-top-img.png",
+      "https://avatars2.githubusercontent.com/u/552452?s=96&v=4",
+      "https://avatars2.githubusercontent.com/u/215668?s=96&v=4",
+      "https://avatars2.githubusercontent.com/u/67130?s=96&v=4",
+      "https://avatars2.githubusercontent.com/u/1177810?s=96&v=4",
+      "https://avatars2.githubusercontent.com/u/8030470?s=96&v=4"
+    ],
+    "youtube": "",
+    "category": "Productivity",
+    "tags": [
+      "macos",
+      "productivity",
+      "joplin",
+      "open-source"
+    ],
+    "version": "3.7.22",
+    "size": "202 MB",
+    "platform": "macOS",
+    "stars": 57112,
+    "rating": null,
+    "downloadUrl": "https://github.com/laurent22/joplin/releases/download/v3.7.22/Joplin-3.7.22-arm64.DMG",
+    "repoUrl": "https://github.com/laurent22/joplin",
+    "releaseDate": "2026-10-28"
+  },
+  {
+    "id": "logseq-logseq",
+    "title": "Logseq",
+    "shortDescription": "Privacy-first outliner and knowledge base.",
+    "description": "Privacy-first outliner and knowledge base.\n\nA privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/logseq.png?size=200",
+    "screenshots": [
+      "https://user-images.githubusercontent.com/25513724/221387376-4dc419c2-0d0a-460c-a920-2d211e78b456.gif",
+      "https://user-images.githubusercontent.com/25513724/220608753-f33db466-af72-4611-b603-411440c15ed0.png?sanatize=true"
+    ],
+    "youtube": "",
+    "category": "Productivity",
+    "tags": [
+      "macos",
+      "productivity",
+      "logseq",
+      "open-source"
+    ],
+    "version": "2.0.2",
+    "size": "169 MB",
+    "platform": "macOS",
+    "stars": 45530,
+    "rating": null,
+    "downloadUrl": "https://github.com/logseq/logseq/releases/download/2.0.2/Logseq-darwin-arm64-2.0.2.dmg",
+    "repoUrl": "https://github.com/logseq/logseq",
+    "releaseDate": "2026-10-07"
+  },
+  {
+    "id": "keepassxreboot-keepassxc",
+    "title": "KeePassXC",
+    "shortDescription": "Offline, open-source password manager.",
+    "description": "Offline, open-source password manager.\n\nKeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/keepassxreboot.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/keepassxreboot/keepassxc"
+    ],
+    "youtube": "",
+    "category": "Security",
+    "tags": [
+      "macos",
+      "security",
+      "keepassxc",
+      "open-source"
+    ],
+    "version": "2.8.0",
+    "size": "45.6 MB",
+    "platform": "macOS",
+    "stars": 29882,
+    "rating": null,
+    "downloadUrl": "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-1-arm64.dmg",
+    "repoUrl": "https://github.com/keepassxreboot/keepassxc",
+    "releaseDate": "2026-10-21"
+  },
+  {
+    "id": "cryptomator-cryptomator",
+    "title": "Cryptomator",
+    "shortDescription": "Encrypt your cloud files with client-side encryption.",
+    "description": "Encrypt your cloud files with client-side encryption.\n\nCryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/cryptomator.png?size=200",
+    "screenshots": [
+      "https://raw.githubusercontent.com/cryptomator/cryptomator/develop/cryptomator.png"
+    ],
+    "youtube": "",
+    "category": "Security",
+    "tags": [
+      "macos",
+      "security",
+      "cryptomator",
+      "open-source"
+    ],
+    "version": "1.19.6",
+    "size": "56.0 MB",
+    "platform": "macOS",
+    "stars": 16472,
+    "rating": null,
+    "downloadUrl": "https://github.com/cryptomator/cryptomator/releases/download/1.19.6/Cryptomator-1.19.6-arm64.dmg",
+    "repoUrl": "https://github.com/cryptomator/cryptomator",
+    "releaseDate": "2026-10-30"
+  },
+  {
+    "id": "mullvadvpn-app",
+    "title": "Mullvad VPN",
+    "shortDescription": "Privacy-first VPN client.",
+    "description": "Privacy-first VPN client.\n\nThe Mullvad VPN client app for desktop and mobile\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/mullvad.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/mullvad/mullvadvpn-app"
+    ],
+    "youtube": "",
+    "category": "Security",
+    "tags": [
+      "macos",
+      "security",
+      "mullvadvpn-app",
+      "open-source"
+    ],
+    "version": "2026.5",
+    "size": "135 MB",
+    "platform": "macOS",
+    "stars": 7762,
+    "rating": null,
+    "downloadUrl": "https://github.com/mullvad/mullvadvpn-app/releases/download/2026.5/MullvadVPN-2026.5_arm64.pkg",
+    "repoUrl": "https://github.com/mullvad/mullvadvpn-app",
+    "releaseDate": "2026-09-14"
+  },
+  {
+    "id": "tdesktop",
+    "title": "Telegram Desktop",
+    "shortDescription": "Official Telegram app for macOS.",
+    "description": "Official Telegram app for macOS.\n\nTelegram Desktop messaging app\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/telegramdesktop.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/telegramdesktop/tdesktop"
+    ],
+    "youtube": "",
+    "category": "Communication",
+    "tags": [
+      "macos",
+      "communication",
+      "tdesktop",
+      "open-source"
+    ],
+    "version": "7.4.1",
+    "size": "169 MB",
+    "platform": "macOS",
+    "stars": 33510,
+    "rating": null,
+    "downloadUrl": "https://github.com/telegramdesktop/tdesktop/releases/download/v7.4.1/td-setup-mac-7.4.1.dmg",
+    "repoUrl": "https://github.com/telegramdesktop/tdesktop",
+    "releaseDate": "2026-11-06"
+  },
+  {
+    "id": "vscodium-vscodium",
+    "title": "Developer Tools",
+    "description": "undefined\n\nbinary releases of VS Code without MS branding/telemetry/licensing\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/VSCodium.png?size=200",
+    "screenshots": [
+      "https://avatars.githubusercontent.com/u/34448643"
+    ],
+    "youtube": "",
+    "category": "VS Code builds without Microsoft telemetry.",
+    "tags": [
+      "macos",
+      "vs-code-builds-without-microsoft-telemetry.",
+      "vscodium",
+      "open-source"
+    ],
+    "version": "1.143.17232",
+    "size": "197 MB",
+    "platform": "macOS",
+    "stars": 34023,
+    "rating": null,
+    "downloadUrl": "https://github.com/VSCodium/vscodium/releases/download/1.143.17232/VSCodium.arm64.1.143.17232.dmg",
+    "repoUrl": "https://github.com/VSCodium/vscodium",
+    "releaseDate": "2026-10-28"
+  },
+  {
+    "id": "neovim-neovim",
+    "title": "Developer Tools",
+    "description": "undefined\n\nVim-fork focused on extensibility and usability\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/neovim.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/neovim/neovim"
+    ],
+    "youtube": "",
+    "category": "Hyperextensible Vim-based text editor.",
+    "tags": [
+      "macos",
+      "hyperextensible-vim-based-text-editor.",
+      "neovim",
+      "open-source"
+    ],
+    "version": "0.12.6",
+    "size": "12.6 MB",
+    "platform": "macOS",
+    "stars": 103518,
+    "rating": null,
+    "downloadUrl": "https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-win-arm64.zip",
+    "repoUrl": "https://github.com/neovim/neovim",
+    "releaseDate": "2026-10-09"
+  },
+  {
+    "id": "etcher",
+    "title": "balenaEtcher",
+    "shortDescription": "Flash OS images to USB drives and SD cards.",
+    "description": "Flash OS images to USB drives and SD cards.\n\nFlash OS images to SD cards & USB drives, safely and easily.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/balena-io.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/balena-io/etcher"
+    ],
+    "youtube": "",
+    "category": "Disk Tools",
+    "tags": [
+      "macos",
+      "disk-tools",
+      "etcher",
+      "open-source"
+    ],
+    "version": "2.1.9",
+    "size": "192 MB",
+    "platform": "macOS",
+    "stars": 34676,
+    "rating": null,
+    "downloadUrl": "https://github.com/balena-io/etcher/releases/download/v2.1.9/balenaEtcher-2.1.9-arm64.dmg",
+    "repoUrl": "https://github.com/balena-io/etcher",
+    "releaseDate": "2026-10-22"
+  },
+  {
+    "id": "syncthing-syncthing",
+    "title": "Disk Tools",
+    "description": "undefined\n\nOpen Source Continuous File Synchronization\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/syncthing.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/syncthing/syncthing"
+    ],
+    "youtube": "",
+    "category": "Continuous private file synchronization between devices.",
+    "tags": [
+      "macos",
+      "continuous-private-file-synchronization-between-devices.",
+      "syncthing",
+      "open-source"
+    ],
+    "version": "2.1.7",
+    "size": "14.2 MB",
+    "platform": "macOS",
+    "stars": 90272,
+    "rating": null,
+    "downloadUrl": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-macos-amd64-v2.1.7.zip",
+    "repoUrl": "https://github.com/syncthing/syncthing",
+    "releaseDate": "2026-10-21"
+  },
+  {
+    "id": "rustdesk-rustdesk",
+    "title": "RustDesk",
+    "shortDescription": "Open-source remote desktop, an AnyDesk alternative.",
+    "description": "Open-source remote desktop, an AnyDesk alternative.\n\nAn open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/rustdesk.png?size=200",
+    "screenshots": [
+      "https://user-images.githubusercontent.com/71636191/171661982-430285f0-2e12-4b1d-9957-4a58e375304d.png"
+    ],
+    "youtube": "",
+    "category": "Remote Access",
+    "tags": [
+      "macos",
+      "remote-access",
+      "rustdesk",
+      "open-source"
+    ],
+    "version": "1.5.1",
+    "size": "29.1 MB",
+    "platform": "macOS",
+    "stars": 128738,
+    "rating": null,
+    "downloadUrl": "https://github.com/rustdesk/rustdesk/releases/download/1.5.1/rustdesk-1.5.1-aarch64.dmg",
+    "repoUrl": "https://github.com/rustdesk/rustdesk",
+    "releaseDate": "2026-11-01"
+  },
+  {
+    "id": "heroicgameslauncher",
+    "title": "Heroic Games Launcher",
+    "shortDescription": "Open-source launcher for Epic, GOG and Amazon games.",
+    "description": "Open-source launcher for Epic, GOG and Amazon games.\n\nA games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/Heroic-Games-Launcher.png?size=200",
+    "screenshots": [
+      "https://user-images.githubusercontent.com/26871415/182468471-6ef4aac6-a4e2-4ae8-93ef-d638cd01627d.png"
+    ],
+    "youtube": "",
+    "category": "Gaming",
+    "tags": [
+      "macos",
+      "gaming",
+      "heroicgameslauncher",
+      "open-source"
+    ],
+    "version": "2.22.4",
+    "size": "162 MB",
+    "platform": "macOS",
+    "stars": 12603,
+    "rating": null,
+    "downloadUrl": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.22.4/Heroic-2.22.4-macOS-arm64.dmg",
+    "repoUrl": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher",
+    "releaseDate": "2026-10-15"
+  },
+  {
+    "id": "prismlauncher-prismlauncher",
+    "title": "Prism Launcher",
+    "shortDescription": "Minecraft launcher with multiple instances.",
+    "description": "Minecraft launcher with multiple instances.\n\nA custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/PrismLauncher.png?size=200",
+    "screenshots": [
+      "https://discordapp.com/api/guilds/1031648380885147709/widget.png?style=banner3"
+    ],
+    "youtube": "",
+    "category": "Gaming",
+    "tags": [
+      "macos",
+      "gaming",
+      "prismlauncher",
+      "open-source"
+    ],
+    "version": "11.1.1",
+    "size": "42.4 MB",
+    "platform": "macOS",
+    "stars": 11085,
+    "rating": null,
+    "downloadUrl": "https://github.com/PrismLauncher/PrismLauncher/releases/download/11.1.1/PrismLauncher-macOS-11.1.1.dmg",
+    "repoUrl": "https://github.com/PrismLauncher/PrismLauncher",
+    "releaseDate": "2026-09-28"
+  },
+  {
+    "id": "ollama-ollama",
+    "title": "Ollama",
+    "shortDescription": "Run large language models locally.",
+    "description": "Run large language models locally.\n\nGet up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/ollama.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/ollama/ollama"
+    ],
+    "youtube": "",
+    "category": "AI Tools",
+    "tags": [
+      "macos",
+      "ai-tools",
+      "ollama",
+      "open-source"
+    ],
+    "version": "0.40.15",
+    "size": "219 MB",
+    "platform": "macOS",
+    "stars": 186433,
+    "rating": null,
+    "downloadUrl": "https://github.com/ollama/ollama/releases/download/v0.40.15/Ollama.dmg",
+    "repoUrl": "https://github.com/ollama/ollama",
+    "releaseDate": "2026-11-03"
+  },
+  {
+    "id": "janhq-jan",
+    "title": "Jan",
+    "shortDescription": "Offline ChatGPT-style assistant on your own computer.",
+    "description": "Offline ChatGPT-style assistant on your own computer.\n\nJan is an open source alternative to ChatGPT that runs 100% offline on your computer.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/janhq.png?size=200",
+    "screenshots": [
+      "https://github.com/user-attachments/assets/f3f87889-c133-433b-b250-236218150d3f"
+    ],
+    "youtube": "",
+    "category": "AI Tools",
+    "tags": [
+      "macos",
+      "ai-tools",
+      "jan",
+      "open-source"
+    ],
+    "version": "0.8.8",
+    "size": "111 MB",
+    "platform": "macOS",
+    "stars": 45623,
+    "rating": null,
+    "downloadUrl": "https://github.com/janhq/jan/releases/download/v0.8.8/Jan_0.8.8_universal.dmg",
+    "repoUrl": "https://github.com/janhq/jan",
+    "releaseDate": "2026-10-28"
+  },
+  {
+    "id": "chatboxai-chatbox",
+    "title": "Chatbox",
+    "shortDescription": "Desktop client for many AI models and APIs.",
+    "description": "Desktop client for many AI models and APIs.\n\nPowerful AI Client\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/chatboxai.png?size=200",
+    "screenshots": [
+      "https://raw.githubusercontent.com/chatboxai/chatbox/main/doc/statics/snapshot_light.png",
+      "https://raw.githubusercontent.com/chatboxai/chatbox/main/doc/statics/snapshot_dark.png",
+      "https://raw.githubusercontent.com/chatboxai/chatbox/main/doc/statics/windows.png",
+      "https://raw.githubusercontent.com/chatboxai/chatbox/main/doc/statics/mac.png",
+      "https://raw.githubusercontent.com/chatboxai/chatbox/main/doc/statics/linux.png",
+      "https://raw.githubusercontent.com/chatboxai/chatbox/main/doc/statics/app_store.webp"
+    ],
+    "youtube": "",
+    "category": "AI Tools",
+    "tags": [
+      "macos",
+      "ai-tools",
+      "chatbox",
+      "open-source"
+    ],
+    "version": "1.20.3",
+    "size": "125 MB",
+    "platform": "macOS",
+    "stars": 42282,
+    "rating": null,
+    "downloadUrl": "https://github.com/chatboxai/chatbox/releases/download/v1.20.3/Chatbox-1.20.3-arm64.dmg",
+    "repoUrl": "https://github.com/chatboxai/chatbox",
+    "releaseDate": "2026-05-31"
+  },
+  {
+    "id": "obsproject-obs-studio",
+    "title": "OBS Studio",
+    "shortDescription": "Free screen recording and live streaming software for Linux.",
+    "description": "Free screen recording and live streaming software for Linux.\n\nOBS Studio - Free and open source software for live streaming and screen recording\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/obsproject.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/obsproject/obs-studio"
+    ],
+    "youtube": "",
+    "category": "Media",
+    "tags": [
+      "linux",
+      "media",
+      "obs-studio",
+      "open-source"
+    ],
+    "version": "33.0.1",
+    "size": "152 MB",
+    "platform": "Linux",
+    "stars": 79210,
+    "rating": null,
+    "downloadUrl": "https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-Ubuntu-26.04-x86_64.deb",
+    "repoUrl": "https://github.com/obsproject/obs-studio",
+    "releaseDate": "2026-10-29"
+  },
+  {
+    "id": "mltframework-shotcut",
+    "title": "Shotcut",
+    "shortDescription": "Free, cross-platform video editor.",
+    "description": "Free, cross-platform video editor.\n\ncross-platform (Qt), open-source (GPLv3) video editor\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/mltframework.png?size=200",
+    "screenshots": [
+      "https://www.shotcut.org/assets/img/screenshots/Shotcut-18.11.18.png"
+    ],
+    "youtube": "",
+    "category": "Media",
+    "tags": [
+      "linux",
+      "media",
+      "shotcut",
+      "open-source"
+    ],
+    "version": "26.9.27",
+    "size": "206 MB",
+    "platform": "Linux",
+    "stars": 15638,
+    "rating": null,
+    "downloadUrl": "https://github.com/mltframework/shotcut/releases/download/v26.9.27/shotcut-linux-x86_64-26.10.3.AppImage",
+    "repoUrl": "https://github.com/mltframework/shotcut",
+    "releaseDate": "2026-09-28"
+  },
+  {
+    "id": "audacity-audacity",
+    "title": "Audacity",
+    "shortDescription": "Popular free audio editor and recorder.",
+    "description": "Popular free audio editor and recorder.\n\nAudio Editor                                     \n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/audacity.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/audacity/audacity"
+    ],
+    "youtube": "",
+    "category": "Media",
+    "tags": [
+      "linux",
+      "media",
+      "audacity",
+      "open-source"
+    ],
+    "version": "Audacity-4.0.2",
+    "size": "70.3 MB",
+    "platform": "Linux",
+    "stars": 19002,
+    "rating": null,
+    "downloadUrl": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.2/audacity-linux-4.0.2-x86_64.AppImage",
+    "repoUrl": "https://github.com/audacity/audacity",
+    "releaseDate": "2026-11-02"
+  },
+  {
+    "id": "obsidianmd-obsidian-releases",
+    "title": "Obsidian",
+    "shortDescription": "Markdown notes with linking and a huge plugin ecosystem.",
+    "description": "Markdown notes with linking and a huge plugin ecosystem.\n\nCommunity plugins list, theme list, and releases of Obsidian.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/obsidianmd.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/obsidianmd/obsidian-releases"
+    ],
+    "youtube": "",
+    "category": "Productivity",
+    "tags": [
+      "linux",
+      "productivity",
+      "obsidian-releases",
+      "open-source"
+    ],
+    "version": "1.15.0",
+    "size": "103 MB",
+    "platform": "Linux",
+    "stars": 23185,
+    "rating": null,
+    "downloadUrl": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.15.0/obsidian_1.15.0_amd64.deb",
+    "repoUrl": "https://github.com/obsidianmd/obsidian-releases",
+    "releaseDate": "2026-11-02"
+  },
+  {
+    "id": "laurent22-joplin",
+    "title": "Joplin",
+    "shortDescription": "Open-source note-taking with sync and end-to-end encryption.",
+    "description": "Open-source note-taking with sync and end-to-end encryption.\n\nJoplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/laurent22.png?size=200",
+    "screenshots": [
+      "https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/WebsiteAssets/images/home-top-img.png",
+      "https://avatars2.githubusercontent.com/u/552452?s=96&v=4",
+      "https://avatars2.githubusercontent.com/u/215668?s=96&v=4",
+      "https://avatars2.githubusercontent.com/u/67130?s=96&v=4",
+      "https://avatars2.githubusercontent.com/u/1177810?s=96&v=4",
+      "https://avatars2.githubusercontent.com/u/8030470?s=96&v=4"
+    ],
+    "youtube": "",
+    "category": "Productivity",
+    "tags": [
+      "linux",
+      "productivity",
+      "joplin",
+      "open-source"
+    ],
+    "version": "3.7.22",
+    "size": "198 MB",
+    "platform": "Linux",
+    "stars": 57112,
+    "rating": null,
+    "downloadUrl": "https://github.com/laurent22/joplin/releases/download/v3.7.22/Joplin-3.7.22.AppImage",
+    "repoUrl": "https://github.com/laurent22/joplin",
+    "releaseDate": "2026-10-28"
+  },
+  {
+    "id": "logseq-logseq",
+    "title": "Logseq",
+    "shortDescription": "Privacy-first outliner and knowledge base.",
+    "description": "Privacy-first outliner and knowledge base.\n\nA privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/logseq.png?size=200",
+    "screenshots": [
+      "https://user-images.githubusercontent.com/25513724/221387376-4dc419c2-0d0a-460c-a920-2d211e78b456.gif",
+      "https://user-images.githubusercontent.com/25513724/220608753-f33db466-af72-4611-b603-411440c15ed0.png?sanatize=true"
+    ],
+    "youtube": "",
+    "category": "Productivity",
+    "tags": [
+      "linux",
+      "productivity",
+      "logseq",
+      "open-source"
+    ],
+    "version": "2.0.2",
+    "size": "168 MB",
+    "platform": "Linux",
+    "stars": 45530,
+    "rating": null,
+    "downloadUrl": "https://github.com/logseq/logseq/releases/download/2.0.2/Logseq-linux-x86_64-2.0.2.AppImage",
+    "repoUrl": "https://github.com/logseq/logseq",
+    "releaseDate": "2026-10-07"
+  },
+  {
+    "id": "keepassxreboot-keepassxc",
+    "title": "KeePassXC",
+    "shortDescription": "Offline, open-source password manager.",
+    "description": "Offline, open-source password manager.\n\nKeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/keepassxreboot.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/keepassxreboot/keepassxc"
+    ],
+    "youtube": "",
+    "category": "Security",
+    "tags": [
+      "linux",
+      "security",
+      "keepassxc",
+      "open-source"
+    ],
+    "version": "2.8.0",
+    "size": "49.7 MB",
+    "platform": "Linux",
+    "stars": 29882,
+    "rating": null,
+    "downloadUrl": "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-1-x86_64.AppImage",
+    "repoUrl": "https://github.com/keepassxreboot/keepassxc",
+    "releaseDate": "2026-10-21"
+  },
+  {
+    "id": "cryptomator-cryptomator",
+    "title": "Cryptomator",
+    "shortDescription": "Encrypt your cloud files with client-side encryption.",
+    "description": "Encrypt your cloud files with client-side encryption.\n\nCryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/cryptomator.png?size=200",
+    "screenshots": [
+      "https://raw.githubusercontent.com/cryptomator/cryptomator/develop/cryptomator.png"
+    ],
+    "youtube": "",
+    "category": "Security",
+    "tags": [
+      "linux",
+      "security",
+      "cryptomator",
+      "open-source"
+    ],
+    "version": "1.19.6",
+    "size": "56.3 MB",
+    "platform": "Linux",
+    "stars": 16472,
+    "rating": null,
+    "downloadUrl": "https://github.com/cryptomator/cryptomator/releases/download/1.19.6/cryptomator-1.19.6-x86_64.AppImage",
+    "repoUrl": "https://github.com/cryptomator/cryptomator",
+    "releaseDate": "2026-10-30"
+  },
+  {
+    "id": "mullvad-mullvadvpn-app",
+    "title": "Mullvad VPN",
+    "shortDescription": "Privacy-first VPN client.",
+    "description": "Privacy-first VPN client.\n\nThe Mullvad VPN client app for desktop and mobile\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/mullvad.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/mullvad/mullvadvpn-app"
+    ],
+    "youtube": "",
+    "category": "Security",
+    "tags": [
+      "linux",
+      "security",
+      "mullvadvpn-app",
+      "open-source"
+    ],
+    "version": "2026.5",
+    "size": "110 MB",
+    "platform": "Linux",
+    "stars": 7762,
+    "rating": null,
+    "downloadUrl": "https://github.com/mullvad/mullvadvpn-app/releases/download/2026.5/MullvadVPN-2026.5_amd64.deb",
+    "repoUrl": "https://github.com/mullvad/mullvadvpn-app",
+    "releaseDate": "2026-09-14"
+  },
+  {
+    "id": "telegramdesktop-tdesktop",
+    "title": "Telegram Desktop",
+    "shortDescription": "Official Telegram app for Linux.",
+    "description": "Official Telegram app for Linux.\n\nTelegram Desktop messaging app\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/telegramdesktop.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/telegramdesktop/tdesktop"
+    ],
+    "youtube": "",
+    "category": "Communication",
+    "tags": [
+      "linux",
+      "communication",
+      "tdesktop",
+      "open-source"
+    ],
+    "version": "7.4.1",
+    "size": "88.9 MB",
+    "platform": "Linux",
+    "stars": 33510,
+    "rating": null,
+    "downloadUrl": "https://github.com/telegramdesktop/tdesktop/releases/download/v7.4.1/tdesktop-7.4.1-full.tar.gz",
+    "repoUrl": "https://github.com/telegramdesktop/tdesktop",
+    "releaseDate": "2026-11-06"
+  },
+  {
+    "id": "vscodium-vscodium",
+    "title": "Developer Tools",
+    "description": "undefined\n\nbinary releases of VS Code without MS branding/telemetry/licensing\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/VSCodium.png?size=200",
+    "screenshots": [
+      "https://avatars.githubusercontent.com/u/34448643"
+    ],
+    "youtube": "",
+    "category": "VS Code builds without Microsoft telemetry.",
+    "tags": [
+      "linux",
+      "vs-code-builds-without-microsoft-telemetry.",
+      "vscodium",
+      "open-source"
+    ],
+    "version": "1.143.17232",
+    "size": "186 MB",
+    "platform": "Linux",
+    "stars": 34023,
+    "rating": null,
+    "downloadUrl": "https://github.com/VSCodium/vscodium/releases/download/1.143.17232/VSCodium-1.143.17232-anylinux-x86_64.AppImage",
+    "repoUrl": "https://github.com/VSCodium/vscodium",
+    "releaseDate": "2026-10-28"
+  },
+  {
+    "id": "neovim-neovim",
+    "title": "Neovim",
+    "shortDescription": "Hyperextensible Vim-based text editor.",
+    "description": "Hyperextensible Vim-based text editor.\n\nVim-fork focused on extensibility and usability\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/neovim.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/neovim/neovim"
+    ],
+    "youtube": "",
+    "category": "Developer Tools",
+    "tags": [
+      "linux",
+      "developer-tools",
+      "neovim",
+      "open-source"
+    ],
+    "version": "0.12.6",
+    "size": "10.9 MB",
+    "platform": "Linux",
+    "stars": 103518,
+    "rating": null,
+    "downloadUrl": "https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-linux-x86_64.appimage",
+    "repoUrl": "https://github.com/neovim/neovim",
+    "releaseDate": "2026-10-09"
+  },
+  {
+    "id": "dbeaver-dbeaver",
+    "title": "DBeaver",
+    "shortDescription": "Universal database manager.",
+    "description": "Universal database manager.\n\nFree universal database tool and SQL client\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/dbeaver.png?size=200",
+    "screenshots": [
+      "https://dbeaver.io/product/dbeaver-sql-editor.png",
+      "https://dbeaver.io/product/dbeaver-gis-viewer.png",
+      "https://dbeaver.io/product/dbeaver-data-editor.png",
+      "https://dbeaver.io/product/dbeaver-erd.png"
+    ],
+    "youtube": "",
+    "category": "Developer Tools",
+    "tags": [
+      "linux",
+      "developer-tools",
+      "dbeaver",
+      "open-source"
+    ],
+    "version": "26.2.4",
+    "size": "123 MB",
+    "platform": "Linux",
+    "stars": 52365,
+    "rating": null,
+    "downloadUrl": "https://github.com/dbeaver/dbeaver/releases/download/26.2.4/dbeaver-ce-26.2.4-linux-x86_64.deb",
+    "repoUrl": "https://github.com/dbeaver/dbeaver",
+    "releaseDate": "2026-11-01"
+  },
+  {
+    "id": "balena-io-etcher",
+    "title": "balenaEtcher",
+    "shortDescription": "Flash OS images to USB drives and SD cards.",
+    "description": "Flash OS images to USB drives and SD cards.\n\nFlash OS images to SD cards & USB drives, safely and easily.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/balena-io.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/balena-io/etcher"
+    ],
+    "youtube": "",
+    "category": "Disk Tools",
+    "tags": [
+      "linux",
+      "disk-tools",
+      "etcher",
+      "open-source"
+    ],
+    "version": "2.1.9",
+    "size": "144 MB",
+    "platform": "Linux",
+    "stars": 34676,
+    "rating": null,
+    "downloadUrl": "https://github.com/balena-io/etcher/releases/download/v2.1.9/balena-etcher_2.1.9_amd64.deb",
+    "repoUrl": "https://github.com/balena-io/etcher",
+    "releaseDate": "2026-10-22"
+  },
+  {
+    "id": "ventoy-ventoy",
+    "title": "Disk Tools",
+    "description": "undefined\n\nA new bootable USB solution.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/ventoy.png?size=200",
+    "screenshots": [
+      "https://www.ventoy.net/static/img/screen/screen_uefi.png",
+      "https://www.ventoy.net/static/img/AliPay.png",
+      "https://www.ventoy.net/static/img/WeChatPay.png"
+    ],
+    "youtube": "",
+    "category": "Boot many ISO files from a single USB drive.",
+    "tags": [
+      "linux",
+      "boot-many-iso-files-from-a-single-usb-drive.",
+      "ventoy",
+      "open-source"
+    ],
+    "version": "1.1.18",
+    "size": "19.4 MB",
+    "platform": "Linux",
+    "stars": 80680,
+    "rating": null,
+    "downloadUrl": "https://github.com/ventoy/Ventoy/releases/download/v1.1.18/ventoy-1.1.18-linux.tar.gz",
+    "repoUrl": "https://github.com/ventoy/Ventoy",
+    "releaseDate": "2026-10-09"
+  },
+  {
+    "id": "syncthing-syncthing",
+    "title": "Syncthing",
+    "shortDescription": "Continuous private file synchronization between devices.",
+    "description": "Continuous private file synchronization between devices.\n\nOpen Source Continuous File Synchronization\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/syncthing.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/syncthing/syncthing"
+    ],
+    "youtube": "",
+    "category": "Disk Tools",
+    "tags": [
+      "linux",
+      "disk-tools",
+      "syncthing",
+      "open-source"
+    ],
+    "version": "2.1.7",
+    "size": "13.4 MB",
+    "platform": "Linux",
+    "stars": 90272,
+    "rating": null,
+    "downloadUrl": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing_2.1.7_amd64.deb",
+    "repoUrl": "https://github.com/syncthing/syncthing",
+    "releaseDate": "2026-10-21"
+  },
+  {
+    "id": "rustdesk-rustdesk",
+    "title": "RustDesk",
+    "shortDescription": "Open-source remote desktop, an AnyDesk alternative.",
+    "description": "Open-source remote desktop, an AnyDesk alternative.\n\nAn open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/rustdesk.png?size=200",
+    "screenshots": [
+      "https://user-images.githubusercontent.com/71636191/171661982-430285f0-2e12-4b1d-9957-4a58e375304d.png"
+    ],
+    "youtube": "",
+    "category": "Remote Access",
+    "tags": [
+      "linux",
+      "remote-access",
+      "rustdesk",
+      "open-source"
+    ],
+    "version": "1.5.1",
+    "size": "84.4 MB",
+    "platform": "Linux",
+    "stars": 128738,
+    "rating": null,
+    "downloadUrl": "https://github.com/rustdesk/rustdesk/releases/download/1.5.1/rustdesk-1.5.1-x86_64.AppImage",
+    "repoUrl": "https://github.com/rustdesk/rustdesk",
+    "releaseDate": "2026-11-01"
+  },
+  {
+    "id": "heroic-games-launcher-heroicgameslauncher",
+    "title": "Heroic Games Launcher",
+    "shortDescription": "Open-source launcher for Epic, GOG and Amazon games.",
+    "description": "Open-source launcher for Epic, GOG and Amazon games.\n\nA games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/Heroic-Games-Launcher.png?size=200",
+    "screenshots": [
+      "https://user-images.githubusercontent.com/26871415/182468471-6ef4aac6-a4e2-4ae8-93ef-d638cd01627d.png"
+    ],
+    "youtube": "",
+    "category": "Gaming",
+    "tags": [
+      "linux",
+      "gaming",
+      "heroicgameslauncher",
+      "open-source"
+    ],
+    "version": "2.22.4",
+    "size": "151 MB",
+    "platform": "Linux",
+    "stars": 12603,
+    "rating": null,
+    "downloadUrl": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.22.4/Heroic-2.22.4-linux-x86_64.AppImage",
+    "repoUrl": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher",
+    "releaseDate": "2026-10-15"
+  },
+  {
+    "id": "prismlauncher-prismlauncher",
+    "title": "Prism Launcher",
+    "shortDescription": "Minecraft launcher with multiple instances.",
+    "description": "Minecraft launcher with multiple instances.\n\nA custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/PrismLauncher.png?size=200",
+    "screenshots": [
+      "https://discordapp.com/api/guilds/1031648380885147709/widget.png?style=banner3"
+    ],
+    "youtube": "",
+    "category": "Gaming",
+    "tags": [
+      "linux",
+      "gaming",
+      "prismlauncher",
+      "open-source"
+    ],
+    "version": "11.1.1",
+    "size": "103 MB",
+    "platform": "Linux",
+    "stars": 11085,
+    "rating": null,
+    "downloadUrl": "https://github.com/PrismLauncher/PrismLauncher/releases/download/11.1.1/PrismLauncher-Linux-x86_64.AppImage",
+    "repoUrl": "https://github.com/PrismLauncher/PrismLauncher",
+    "releaseDate": "2026-09-28"
+  },
+  {
+    "id": "janhq-jan",
+    "title": "Jan",
+    "shortDescription": "Offline ChatGPT-style assistant on your own computer.",
+    "description": "Offline ChatGPT-style assistant on your own computer.\n\nJan is an open source alternative to ChatGPT that runs 100% offline on your computer.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/janhq.png?size=200",
+    "screenshots": [
+      "https://github.com/user-attachments/assets/f3f87889-c133-433b-b250-236218150d3f"
+    ],
+    "youtube": "",
+    "category": "AI Tools",
+    "tags": [
+      "linux",
+      "ai-tools",
+      "jan",
+      "open-source"
+    ],
+    "version": "0.8.8",
+    "size": "680 MB",
+    "platform": "Linux",
+    "stars": 45623,
+    "rating": null,
+    "downloadUrl": "https://github.com/janhq/jan/releases/download/v0.8.8/Jan_0.8.8_amd64.AppImage",
+    "repoUrl": "https://github.com/janhq/jan",
+    "releaseDate": "2026-10-28"
+  },
+  {
+    "id": "termux",
+    "title": "Termux",
+    "shortDescription": "Terminal emulator and Linux environment app for Android.",
+    "description": "Terminal emulator and Linux environment app for Android.\n\nTermux - a terminal emulator application for Android OS extendible by variety of packages.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/termux.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/termux/termux-app"
+    ],
+    "youtube": "",
+    "category": "Utilities",
+    "tags": [
+      "android",
+      "utilities",
+      "termux-app",
+      "open-source"
+    ],
+    "version": "0.118.3",
+    "size": "33.5 MB",
+    "platform": "Android",
+    "stars": 64461,
+    "rating": null,
+    "downloadUrl": "https://github.com/termux/termux-app/releases/download/v0.118.3/termux-app_v0.118.3%2Bgithub-debug_arm64-v8a.apk",
+    "repoUrl": "https://github.com/termux/termux-app",
+    "releaseDate": "2025-05-22"
+  },
+  {
+    "id": "newpipe",
     "title": "NewPipe",
-    "shortDescription": "A minimalist puzzle game about pathfinding under pressure.",
-    "description": "Grid Runner is a small puzzle game where you route a signal across a shifting grid before time runs out. Built as a C++ learning project, focused on tight controls and clean visuals over flashy effects.\n\nFeatures:\n- 40 hand-designed levels\n- Local leaderboard\n- Controller support\n- Runs on low-end machines",
-    "icon": "https://media.istockphoto.com/id/2218341839/vector/download-our-app-advertising-banner-phone-mockup-app-for-mobile-empty-screen-ui-and-ux.jpg?s=1024x1024&w=is&k=20&c=JuXLNxrz2b7Y1eFNMTGDoAiqXklYpI9N_YzttnTI7Xg=",
-    "screenshots": ["https://media.istockphoto.com/id/2218341839/vector/download-our-app-advertising-banner-phone-mockup-app-for-mobile-empty-screen-ui-and-ux.jpg?s=1024x1024&w=is&k=20&c=JuXLNxrz2b7Y1eFNMTGDoAiqXklYpI9N_YzttnTI7Xg=",
-      "https://www.apple.com/newsroom/images/product/apps/standard/Apple-App-Store-Awards-2022-Trophy_inline.jpg.large_2x.jpg",
-      "https://www.apple.com/newsroom/images/product/apps/standard/Apple-App-Store-Awards-2022-Trophy_inline.jpg.large_2x.jpg",
-      "https://www.apple.com/newsroom/images/product/apps/standard/Apple-App-Store-Awards-2022-Trophy_inline.jpg.large_2x.jpg",
-      "https://www.apple.com/newsroom/images/product/apps/standard/Apple-App-Store-Awards-2022-Trophy_inline.jpg.large_2x.jpg",
-      "https://www.apple.com/newsroom/images/product/apps/standard/Apple-App-Store-Awards-2022-Trophy_inline.jpg.large_2x.jpg",
-      "https://www.apple.com/newsroom/images/product/apps/standard/Apple-App-Store-Awards-2022-Trophy_inline.jpg.large_2x.jpg",
-      "https://www.apple.com/newsroom/images/product/apps/standard/Apple-App-Store-Awards-2022-Trophy_inline.jpg.large_2x.jpg"
+    "shortDescription": "Lightweight YouTube frontend built for Android without ads or Google tracking.",
+    "description": "Lightweight YouTube frontend built for Android without ads or Google tracking.\n\nA libre lightweight streaming front-end for Android.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/TeamNewPipe.png?size=200",
+    "screenshots": [
+      "https://www.gnu.org/graphics/gplv3-127x51.png",
+      "https://raw.githubusercontent.com/TeamNewPipe/NewPipe/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/00.png",
+      "https://raw.githubusercontent.com/TeamNewPipe/NewPipe/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/01.png",
+      "https://raw.githubusercontent.com/TeamNewPipe/NewPipe/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/02.png",
+      "https://raw.githubusercontent.com/TeamNewPipe/NewPipe/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/03.png",
+      "https://raw.githubusercontent.com/TeamNewPipe/NewPipe/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/04.png"
     ],
-    "youtube": "https://youtu.be/tumvKqIj8Jc?si=EyWanKFzzZly-O_Y",
-    "category": "Puzzle",
-    "tags": ["game", "puzzle", "windows", "offline", "newpipe"],
-    "version": "0.9.2",
-    "size": "34 MB",
-    "platform": "Windows",
-    "rating": 4.3,
-    "downloadUrl": "https://github.com/TeamNewPipe/NewPipe/releases/download/v0.29.1/NewPipe_v0.29.1.apk",
+    "youtube": "",
+    "category": "Media",
+    "tags": [
+      "android",
+      "media",
+      "newpipe",
+      "open-source"
+    ],
+    "version": "0.29.2",
+    "size": "16.2 MB",
+    "platform": "Android",
+    "stars": 40534,
+    "rating": null,
+    "downloadUrl": "https://github.com/TeamNewPipe/NewPipe/releases/download/v0.29.2/NewPipe_v0.29.2.apk",
     "repoUrl": "https://github.com/TeamNewPipe/NewPipe",
-    "releaseDate": "2026-06-22"
+    "releaseDate": "2026-11-07"
   },
   {
-    "id": "grid-runner1",
-    "title": "Grid Runner1",
-    "shortDescription": "A minimalist puzzle game about pathfinding under pressure.",
-    "description": "Grid Runner is a small puzzle game where you route a signal across a shifting grid before time runs out. Built as a C++ learning project, focused on tight controls and clean visuals over flashy effects.\n\nFeatures:\n- 40 hand-designed levels\n- Local leaderboard\n- Controller support\n- Runs on low-end machines",
-    "icon": "https://www.apple.com/newsroom/images/product/apps/standard/Apple-App-Store-Awards-2022-Trophy_inline.jpg.large_2x.jpg",
+    "id": "seal-app",
+    "title": "Seal",
+    "shortDescription": "Video and audio downloader for Android powered by yt-dlp.",
+    "description": "Video and audio downloader for Android powered by yt-dlp.\n\n🦭 Video/Audio Downloader for Android, based on yt-dlp\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/JunkFood02.png?size=200",
     "screenshots": [
-      "https://www.apple.com/newsroom/images/product/apps/standard/Apple-App-Store-Awards-2022-Trophy_inline.jpg.large_2x.jpg",
-      "https://www.apple.com/newsroom/images/product/apps/standard/Apple-App-Store-Awards-2022-Trophy_inline.jpg.large_2x.jpg",
-      "https://www.apple.com/newsroom/images/product/apps/standard/Apple-App-Store-Awards-2022-Trophy_inline.jpg.large_2x.jpg",
-      "https://www.apple.com/newsroom/images/product/apps/standard/Apple-App-Store-Awards-2022-Trophy_inline.jpg.large_2x.jpg",
-      "https://www.apple.com/newsroom/images/product/apps/standard/Apple-App-Store-Awards-2022-Trophy_inline.jpg.large_2x.jpg",
-      "https://www.apple.com/newsroom/images/product/apps/standard/Apple-App-Store-Awards-2022-Trophy_inline.jpg.large_2x.jpg",
-      "https://www.apple.com/newsroom/images/product/apps/standard/Apple-App-Store-Awards-2022-Trophy_inline.jpg.large_2x.jpg"
+      "https://raw.githubusercontent.com/JunkFood02/Seal/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1.jpg",
+      "https://raw.githubusercontent.com/JunkFood02/Seal/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2.jpg",
+      "https://raw.githubusercontent.com/JunkFood02/Seal/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3.jpg",
+      "https://raw.githubusercontent.com/JunkFood02/Seal/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4.jpg",
+      "https://raw.githubusercontent.com/JunkFood02/Seal/main/fastlane/metadata/android/en-US/images/phoneScreenshots/5.jpg",
+      "https://raw.githubusercontent.com/JunkFood02/Seal/main/fastlane/metadata/android/en-US/images/phoneScreenshots/6.jpg"
     ],
-    "youtube": "https://youtu.be/tumvKqIj8Jc?si=EyWanKFzzZly-O_Y",
-    "category": "Puzzle",
-    "tags": ["game", "puzzle", "windows", "offline"],
-    "version": "0.9.2",
-    "size": "34 MB",
-    "platform": "Windows",
-    "rating": 4.3,
-    "downloadUrl": "https://github.com/msr-khan/grid-runner/releases/latest/download/GridRunner-Setup.exe",
-    "repoUrl": "https://github.com/msr-khan/grid-runner",
-    "releaseDate": "2026-06-22"
+    "youtube": "",
+    "category": "Downloaders",
+    "tags": [
+      "android",
+      "downloaders",
+      "seal",
+      "open-source"
+    ],
+    "version": "1.13.1",
+    "size": "41.1 MB",
+    "platform": "Android",
+    "stars": 30490,
+    "rating": null,
+    "downloadUrl": "https://github.com/JunkFood02/Seal/releases/download/v1.13.1/Seal-1.13.1-arm64-v8a-release.apk",
+    "repoUrl": "https://github.com/JunkFood02/Seal",
+    "releaseDate": "2024-10-16"
   },
   {
-    "id": "grid-runner2",
-    "title": "Grid Runner2",
-    "shortDescription": "A minimalist puzzle game about pathfinding under pressure.",
-    "description": "Grid Runner is a small puzzle game where you route a signal across a shifting grid before time runs out. Built as a C++ learning project, focused on tight controls and clean visuals over flashy effects.\n\nFeatures:\n- 40 hand-designed levels\n- Local leaderboard\n- Controller support\n- Runs on low-end machines",
-    "icon": "https://www.apple.com/newsroom/images/product/apps/standard/Apple-App-Store-Awards-2022-Trophy_inline.jpg.large_2x.jpg",
+    "id": "shizuku",
+    "title": "Shizuku",
+    "shortDescription": "Use system APIs directly with elevated permissions without root.",
+    "description": "Use system APIs directly with elevated permissions without root.\n\nUsing system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/RikkaApps.png?size=200",
     "screenshots": [
-      "https://www.apple.com/newsroom/images/product/apps/standard/Apple-App-Store-Awards-2022-Trophy_inline.jpg.large_2x.jpg",
-      "https://www.apple.com/newsroom/images/product/apps/standard/Apple-App-Store-Awards-2022-Trophy_inline.jpg.large_2x.jpg",
-      "https://www.apple.com/newsroom/images/product/apps/standard/Apple-App-Store-Awards-2022-Trophy_inline.jpg.large_2x.jpg",
-      "https://www.apple.com/newsroom/images/product/apps/standard/Apple-App-Store-Awards-2022-Trophy_inline.jpg.large_2x.jpg",
-      "https://www.apple.com/newsroom/images/product/apps/standard/Apple-App-Store-Awards-2022-Trophy_inline.jpg.large_2x.jpg",
-      "https://www.apple.com/newsroom/images/product/apps/standard/Apple-App-Store-Awards-2022-Trophy_inline.jpg.large_2x.jpg",
-      "https://www.apple.com/newsroom/images/product/apps/standard/Apple-App-Store-Awards-2022-Trophy_inline.jpg.large_2x.jpg"
+      "https://opengraph.githubassets.com/1/RikkaApps/Shizuku"
     ],
-    "youtube": "://youtu.be/tumvKqIj8Jc?si=EyWanKFzzZly-O_Y",
-    "category": "Puzzle",
-    "tags": ["game", "puzzle", "windows", "offline"],
-    "version": "0.9.2",
-    "size": "34 MB",
-    "platform": "Windows",
-    "rating": 4.3,
-    "downloadUrl": "https://github.com/msr-khan/grid-runner/releases/latest/download/GridRunner-Setup.exe",
-    "repoUrl": "https://github.com/msr-khan/grid-runner",
-    "releaseDate": "2026-06-22"
+    "youtube": "",
+    "category": "Utilities",
+    "tags": [
+      "android",
+      "utilities",
+      "shizuku",
+      "open-source"
+    ],
+    "version": "13.6.0",
+    "size": "2.5 MB",
+    "platform": "Android",
+    "stars": 33232,
+    "rating": null,
+    "downloadUrl": "https://github.com/RikkaApps/Shizuku/releases/download/v13.6.0/shizuku-v13.6.0.r1086.2650830c-release.apk",
+    "repoUrl": "https://github.com/RikkaApps/Shizuku",
+    "releaseDate": "2025-05-25"
   },
   {
-    "id": "grid-runner3",
-    "title": "Grid Runner3",
-    "shortDescription": "A minimalist puzzle game about pathfinding under pressure.",
-    "description": "Grid Runner is a small puzzle game where you route a signal across a shifting grid before time runs out. Built as a C++ learning project, focused on tight controls and clean visuals over flashy effects.\n\nFeatures:\n- 40 hand-designed levels\n- Local leaderboard\n- Controller support\n- Runs on low-end machines",
-    "icon": "/icons/icon-192.png",
+    "id": "aegis-authenticator",
+    "title": "Aegis Authenticator",
+    "shortDescription": "Secure, open source 2FA app for Android.",
+    "description": "Secure, open source 2FA app for Android.\n\nA free, secure and open source app for Android to manage your 2-step verification tokens.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/beemdevelopment.png?size=200",
     "screenshots": [
-      "https://www.apple.com/newsroom/images/product/apps/standard/Apple-App-Store-Awards-2022-Trophy_inline.jpg.large_2x.jpg",
-      "https://www.apple.com/newsroom/images/product/apps/standard/Apple-App-Store-Awards-2022-Trophy_inline.jpg.large_2x.jpg",
-      "https://www.apple.com/newsroom/images/product/apps/standard/Apple-App-Store-Awards-2022-Trophy_inline.jpg.large_2x.jpg",
-      "https://www.apple.com/newsroom/images/product/apps/standard/Apple-App-Store-Awards-2022-Trophy_inline.jpg.large_2x.jpg",
-      "https://www.apple.com/newsroom/images/product/apps/standard/Apple-App-Store-Awards-2022-Trophy_inline.jpg.large_2x.jpg",
-      "https://www.apple.com/newsroom/images/product/apps/standard/Apple-App-Store-Awards-2022-Trophy_inline.jpg.large_2x.jpg",
-      "https://www.apple.com/newsroom/images/product/apps/standard/Apple-App-Store-Awards-2022-Trophy_inline.jpg.large_2x.jpg"
+      "https://raw.githubusercontent.com/beemdevelopment/Aegis/master/metadata/en-US/images/phoneScreenshots/screenshot1.png?raw=true",
+      "https://raw.githubusercontent.com/beemdevelopment/Aegis/master/metadata/en-US/images/phoneScreenshots/screenshot2.png?raw=true",
+      "https://raw.githubusercontent.com/beemdevelopment/Aegis/master/metadata/en-US/images/phoneScreenshots/screenshot3.png?raw=true",
+      "https://raw.githubusercontent.com/beemdevelopment/Aegis/master/metadata/en-US/images/phoneScreenshots/screenshot4.png?raw=true",
+      "https://raw.githubusercontent.com/beemdevelopment/Aegis/master/metadata/en-US/images/phoneScreenshots/screenshot5.png?raw=true",
+      "https://raw.githubusercontent.com/beemdevelopment/Aegis/master/metadata/en-US/images/phoneScreenshots/screenshot6.png?raw=true"
     ],
-    "youtube": "https://youtu.be/JK6MLc-UwKE?si=neAw_8mJ49XUY-Wu",
-    "category": "Puzzle",
-    "tags": ["game", "puzzle", "windows", "offline"],
-    "version": "0.9.2",
-    "size": "34 MB",
-    "platform": "Windows",
-    "rating": 4.3,
-    "downloadUrl": "https://github.com/msr-khan/grid-runner/releases/latest/download/GridRunner-Setup.exe",
-    "repoUrl": "https://github.com/msr-khan/grid-runner",
-    "releaseDate": "2026-06-22"
+    "youtube": "",
+    "category": "Security",
+    "tags": [
+      "android",
+      "security",
+      "aegis",
+      "open-source"
+    ],
+    "version": "3.4.3",
+    "size": "6.6 MB",
+    "platform": "Android",
+    "stars": 13503,
+    "rating": null,
+    "downloadUrl": "https://github.com/beemdevelopment/Aegis/releases/download/v3.4.3/aegis-v3.4.3.apk",
+    "repoUrl": "https://github.com/beemdevelopment/Aegis",
+    "releaseDate": "2026-09-06"
   },
   {
-    "id": "grid-runner4",
-    "title": "Grid Runner4",
-    "shortDescription": "A minimalist puzzle game about pathfinding under pressure.",
-    "description": "Grid Runner is a small puzzle game where you route a signal across a shifting grid before time runs out. Built as a C++ learning project, focused on tight controls and clean visuals over flashy effects.\n\nFeatures:\n- 40 hand-designed levels\n- Local leaderboard\n- Controller support\n- Runs on low-end machines",
-    "icon": "https://www.apple.com/newsroom/images/product/apps/standard/Apple-App-Store-Awards-2022-Trophy_inline.jpg.large_2x.jpg",
+    "id": "revanced-manager",
+    "title": "ReVanced Manager",
+    "shortDescription": "Android application customizer and patcher.",
+    "description": "Android application customizer and patcher.\n\n💊 Application to use ReVanced on Android \n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/revanced.png?size=200",
     "screenshots": [
-      "https://www.apple.com/newsroom/images/product/apps/standard/Apple-App-Store-Awards-2022-Trophy_inline.jpg.large_2x.jpg",
-      "https://www.apple.com/newsroom/images/product/apps/standard/Apple-App-Store-Awards-2022-Trophy_inline.jpg.large_2x.jpg",
-      "https://www.apple.com/newsroom/images/product/apps/standard/Apple-App-Store-Awards-2022-Trophy_inline.jpg.large_2x.jpg",
-      "https://www.apple.com/newsroom/images/product/apps/standard/Apple-App-Store-Awards-2022-Trophy_inline.jpg.large_2x.jpg",
-      "https://www.apple.com/newsroom/images/product/apps/standard/Apple-App-Store-Awards-2022-Trophy_inline.jpg.large_2x.jpg",
-      "https://www.apple.com/newsroom/images/product/apps/standard/Apple-App-Store-Awards-2022-Trophy_inline.jpg.large_2x.jpg",
-      "https://www.apple.com/newsroom/images/product/apps/standard/Apple-App-Store-Awards-2022-Trophy_inline.jpg.large_2x.jpg"
+      "https://i.ibb.co/9wV3HGF/Git-Hub-Mark-Light.png",
+      "https://user-images.githubusercontent.com/13122796/178032563-d4e084b7-244e-4358-af50-26bde6dd4996.png",
+      "https://user-images.githubusercontent.com/13122796/178032351-9d9d5619-8ef7-470a-9eec-2744ece54553.png",
+      "https://user-images.githubusercontent.com/13122796/178032213-faf25ab8-0bc3-4a94-a730-b524c96df124.png",
+      "https://user-images.githubusercontent.com/93124920/270108715-d80743fa-b330-4809-b1e6-79fbdc60d09c.png",
+      "https://user-images.githubusercontent.com/13122796/178032714-c51c7492-0666-44ac-99c2-f003a695ab50.png"
     ],
-    "youtube": "https://youtu.be/tumvKqIj8Jc?si=EyWanKFzzZly-O_Y",
-    "category": "Puzzle",
-    "tags": ["game", "puzzle", "windows", "offline"],
-    "version": "0.9.2",
-    "size": "34 MB",
-    "platform": "Windows",
-    "rating": 4.3,
-    "downloadUrl": "https://github.com/msr-khan/grid-runner/releases/latest/download/GridRunner-Setup.exe",
-    "repoUrl": "https://github.com/msr-khan/grid-runner",
-    "releaseDate": "2026-06-22"
+    "youtube": "",
+    "category": "Utilities",
+    "tags": [
+      "android",
+      "utilities",
+      "revanced-manager",
+      "open-source"
+    ],
+    "version": "2.6.0",
+    "size": "44.7 MB",
+    "platform": "Android",
+    "stars": 30112,
+    "rating": null,
+    "downloadUrl": "https://github.com/ReVanced/revanced-manager/releases/download/v2.6.0/revanced-manager-2.6.0.apk",
+    "repoUrl": "https://github.com/ReVanced/revanced-manager",
+    "releaseDate": "2026-04-26"
   },
   {
-    "id": "Whatapp",
-    "title": "Whatapp",
-    "shortDescription": "A minimalist puzzle game about pathfinding under pressure.",
-    "description": "Grid Runner is a small puzzle game where you route a signal across a shifting grid before time runs out. Built as a C++ learning project, focused on tight controls and clean visuals over flashy effects.\n\nFeatures:\n- 40 hand-designed levels\n- Local leaderboard\n- Controller support\n- Runs on low-end machines",
-    "icon": "https://play-lh.googleusercontent.com/Gqxk4T0uZsDwFp07DE-508hkyvcNmgFuRwPiwTEfF7D7OzGv1FdHDzEyMxNsSBZLOJlGpe3ULvVM2RgrRAlBqA=w480-h960-rw",
+    "id": "mihon",
+    "title": "Mihon",
+    "shortDescription": "Free and open source manga reader for Android.",
+    "description": "Free and open source manga reader for Android.\n\nFree and open source manga reader for Android\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/mihonapp.png?size=200",
     "screenshots": [
-      "https://play-lh.googleusercontent.com/GQF4h3VL-kklOrVS_f1QRAJJZa2zQyVNcFbKdOIkvI_Pcu1op0Sy3uiryiTxpdcCDs7vEDA9eq0eWbxo0fx_wc8=w1052-h592-rw",
-      "https://play-lh.googleusercontent.com/Q042rTbs53V_jW_c5fMqnNLCf-FBKiO2KiFKJJACa65oMCkaxqDSFKPQ7TH8nYetS-js-fMV7ptXSsF-aCkvcw=w1052-h592-rw",
-      "https://play-lh.googleusercontent.com/EefxorXU8H0etXPHJsq4Nao8Npj7FqVT_h5rumnUS9KvIN7i-3WRotwduyEGi1Zg33BFHcuYRjQ0i01I3zJS=w5120-h2880-rw",
-      "https://play-lh.googleusercontent.com/ZXrWYqhvVeKjNeYwIfLWBcjTXSLG_MuRtvSJ3ve51Kbibq7FHIOJGN5OsyAv7Pj7Ks9D-kbzGQnrG7NR041bPw=w1052-h592-rw",
-      "https://play-lh.googleusercontent.com/LpzEliIJTR1c5J_uDm4LziuJuYUSntSk2Ul-NND7koLd6yaLlLQCrB2O5QwygrDK1aFYRo5m-ZPJ7Tjt1mrFXw=w1052-h592-rw",
-      "https://play-lh.googleusercontent.com/SZ3d1fEo4SHHvXQJWym3zlNDYBSgXwBM1bUUdbZ3E4B2LPgCkvRm-vo5-cJFDDMmpDpO_tOuXPufAEqy1AAu7A=w1052-h592-rw"
+      "https://opengraph.githubassets.com/1/mihonapp/mihon"
     ],
-    "youtube": "https://youtu.be/4OFju0oXmVo?si=7HHR5rfmF3MuByTT",
-    "category": "Puzzle",
-    "tags": ["game", "puzzle", "windows", "offline"],
-    "version": "0.9.2",
-    "size": "34 MB",
-    "platform": "Windows",
-    "rating": 4.3,
-    "downloadUrl": "https://play.google.com/store/apps/details?id=com.whatsapp&pcampaignid=web_share",
-    "repoUrl": "https://github.com/msr-khan/grid-runner",
-    "releaseDate": "2026-06-22"
+    "youtube": "",
+    "category": "Media",
+    "tags": [
+      "android",
+      "media",
+      "mihon",
+      "open-source"
+    ],
+    "version": "0.21.3",
+    "size": "26.5 MB",
+    "platform": "Android",
+    "stars": 25155,
+    "rating": null,
+    "downloadUrl": "https://github.com/mihonapp/mihon/releases/download/v0.21.3/mihon-arm64-v8a-v0.21.3.apk",
+    "repoUrl": "https://github.com/mihonapp/mihon",
+    "releaseDate": "2026-10-25"
+  },
+  {
+    "id": "androidide",
+    "title": "AndroidIDE",
+    "shortDescription": "IDE for developing real Android apps on Android devices.",
+    "description": "IDE for developing real Android apps on Android devices.\n\nAndroidIDE is an IDE for Android to develop full featured Android apps.\n\nFree and open source. Download the latest official release directly from GitHub.",
+    "icon": "https://github.com/AndroidIDEOfficial.png?size=200",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/AndroidIDEOfficial/AndroidIDE"
+    ],
+    "youtube": "",
+    "category": "Developer Tools",
+    "tags": [
+      "android",
+      "developer-tools",
+      "androidide",
+      "open-source"
+    ],
+    "version": "2.7.1-beta",
+    "size": "80.5 MB",
+    "platform": "Android",
+    "stars": 3360,
+    "rating": null,
+    "downloadUrl": "https://github.com/AndroidIDEOfficial/AndroidIDE/releases/download/v2.7.1-beta/androidide-v2.7.1-beta-arm64-v8a.apk",
+    "repoUrl": "https://github.com/AndroidIDEOfficial/AndroidIDE",
+    "releaseDate": "2024-01-20"
   }
-  
 ]
