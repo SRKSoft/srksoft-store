@@ -1,9 +1,98 @@
 import { Link, useParams } from 'react-router-dom'
-import { useMemo, useState } from 'react'
+import { useState } from 'react'
 import apps from '../data/apps.json'
 import developer from '../data/developer.json'
 import AppCard from '../components/AppCard.jsx'
 import useSEO from '../hooks/useSEO.js'
+
+const SITE_URL = 'https://apps.srksoft.online'
+
+// Maps the store's categories to schema.org application types that Google understands.
+const SCHEMA_CATEGORY = {
+  'Developer Tools': 'DeveloperApplication',
+  Media: 'MultimediaApplication',
+  Productivity: 'BusinessApplication',
+  Utilities: 'UtilitiesApplication',
+  Security: 'SecurityApplication',
+  'AI Tools': 'UtilitiesApplication',
+  Gaming: 'GameApplication',
+  Emulators: 'GameApplication',
+  'Disk Tools': 'UtilitiesApplication',
+  Downloaders: 'UtilitiesApplication',
+  Communication: 'CommunicationApplication',
+  'Remote Access': 'UtilitiesApplication',
+  Browsers: 'BrowserApplication',
+  Customization: 'DesktopEnhancementApplication',
+  Network: 'UtilitiesApplication',
+}
+
+const collapse = (text = '') => String(text).replace(/\s+/g, ' ').trim()
+
+function truncate(text, max = 158) {
+  if (text.length <= max) return text
+  return `${text.slice(0, max - 1).replace(/\s+\S*$/, '')}…`
+}
+
+/** Builds title, description, canonical path and structured data for one app page. */
+function buildSeo(app) {
+  if (!app) return { title: 'App not found | SRK Soft Store', noindex: true }
+
+  // Apps that come from GitHub have a repoUrl. Your own apps (e.g. Inventory POS) do not,
+  // so they must never be described as "free" or "open source".
+  const isOpenSource = Boolean(app.repoUrl)
+  const platform = app.platform || 'Windows'
+  const path = `/app/${encodeURIComponent(app.id)}`
+  const url = `${SITE_URL}${path}`
+  const summary = collapse(app.shortDescription || String(app.description || '').split('\n')[0])
+  const ending = /[.!?]$/.test(summary) ? '' : '.'
+  const tail = isOpenSource
+    ? ` Free open source ${platform} download from the official release.`
+    : ` Available for ${platform} from SRK Soft Store.`
+
+  const software = {
+    '@type': 'SoftwareApplication',
+    '@id': `${url}#software`,
+    name: app.title,
+    url,
+    description: summary,
+    image: app.icon,
+    applicationCategory: SCHEMA_CATEGORY[app.category] || 'UtilitiesApplication',
+    operatingSystem: platform,
+    softwareVersion: app.version,
+    fileSize: app.size,
+    downloadUrl: app.downloadUrl,
+    dateModified: app.releaseDate,
+    keywords: app.tags?.join(', '),
+    ...(isOpenSource
+      ? {
+          isAccessibleForFree: true,
+          sameAs: app.repoUrl,
+          offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
+        }
+      : {
+          author: { '@type': 'Organization', name: 'SRK Soft', url: 'https://srksoft.online/' },
+        }),
+  }
+
+  const breadcrumb = {
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Store', item: `${SITE_URL}/` },
+      { '@type': 'ListItem', position: 2, name: app.title, item: url },
+    ],
+  }
+
+  return {
+    title: isOpenSource
+      ? `Download ${app.title} for ${platform} – Free & Open Source | SRK Soft Store`
+      : `${app.title} for ${platform} | SRK Soft Store`,
+    description: truncate(`${summary}${ending}${tail}`),
+    keywords: app.tags?.join(', '),
+    path,
+    image: app.icon,
+    jsonLd: { '@context': 'https://schema.org', '@graph': [software, breadcrumb] },
+  }
+}
 
 function youtubeId(url) {
   if (!url) return null
@@ -24,7 +113,7 @@ export default function AppDetail() {
   const [copied, setCopied] = useState(false)
   const [mediaIndex, setMediaIndex] = useState(0)
   const [lightboxOpen, setLightboxOpen] = useState(false)
-  useSEO({ title: app ? `${app.title} — SRK Soft Store` : 'App not found — SRK Soft Store', description: app?.shortDescription, keywords: app?.tags?.join(', ') })
+  useSEO(buildSeo(app))
 
   if (!app) return <main className="not-found"><div className="not-found__box"><span>404</span><h1>App not found</h1><p>This app may have been removed or the link is incorrect.</p><Link to="/" className="button button--primary">Back to store <Icon name="arrow" size={16}/></Link></div></main>
 
@@ -42,8 +131,7 @@ export default function AppDetail() {
   }
 
   return <main className="detail-page">
-    <script type="application/ld+json">{JSON.stringify({'@context':'https://schema.org','@type':'SoftwareApplication',name:app.title,description:app.description,applicationCategory:app.category,operatingSystem:app.platform,softwareVersion:app.version,fileSize:app.size,keywords:app.tags?.join(', '),aggregateRating:{'@type':'AggregateRating',ratingValue:app.rating,ratingCount:1},author:{'@type':'Person',name:developer.name}})}</script>
-    
+
     {/* Lightbox Modal Overlay */}
     {lightboxOpen && media[mediaIndex]?.type === 'image' && (
       <div className="lightbox-overlay" onClick={() => setLightboxOpen(false)}>
@@ -55,7 +143,7 @@ export default function AppDetail() {
     )}
 
     <section className="detail-hero"><div className="container">
-      <div className="breadcrumb"><Link to="/">Store</Link><span>/</span><span>{app.category}</span><span>/</span><b>{app.title}</b></div>
+      <nav className="breadcrumb" aria-label="Breadcrumb"><Link to="/">Store</Link><span>/</span><span>{app.category}</span><span>/</span><b>{app.title}</b></nav>
       <div className="product-hero">
         <div className="product-hero__visual"><div className="product-icon"><img src={app.icon} alt={`${app.title} icon`} /></div><div className="product-icon__ring" /></div>
         <div className="product-hero__copy">
@@ -63,8 +151,8 @@ export default function AppDetail() {
           <h1>{app.title}</h1>
           <p>{app.shortDescription}</p>
           <Link to="/about" className="developer-line"><img src={developer.photo} alt="" /> By {developer.name}</Link>
-          <div className="product-stats"><span><b>★</b> {app.rating ? app.rating.toFixed(1) : '0.0'}</span><i /> <span>{app.size}</span><i /> <span>Version {app.version}</span><i /> <span>Updated {app.releaseDate}</span></div>
-          <div className="product-actions"><a href={app.downloadUrl} className="button button--primary button--large"><Icon name="download" size={18}/> Install {app.title}</a><button className="button button--soft" onClick={share}><Icon name="share" size={18}/> {copied ? 'Link copied' : 'Share'}</button></div>
+          <div className="product-stats">{app.rating ? <><span><b>★</b> {app.rating.toFixed(1)}</span><i /> </> : null}<span>{app.size}</span><i /> <span>Version {app.version}</span><i /> <span>Updated {app.releaseDate}</span></div>
+          <div className="product-actions"><a href={app.downloadUrl} rel="noopener noreferrer" className="button button--primary button--large"><Icon name="download" size={18}/> Install {app.title}</a><button className="button button--soft" onClick={share}><Icon name="share" size={18}/> {copied ? 'Link copied' : 'Share'}</button></div>
           <div className="trust-line"><Icon name="shield" size={16}/><span>Download opens the developer's existing release link.</span></div>
         </div>
       </div>
@@ -88,7 +176,7 @@ export default function AppDetail() {
       </div>
 
       <aside className="detail-sidebar">
-        <div className="side-card"><span className="side-card__kicker">Installation</span><h3>Ready to try it?</h3><p>Use the official download link already configured for this app.</p><a href={app.downloadUrl} className="button button--primary">Install now <Icon name="arrow" size={16}/></a><a href={app.repoUrl} target="_blank" rel="noreferrer" className="side-link">View source / release <Icon name="external" size={15}/></a></div>
+        <div className="side-card"><span className="side-card__kicker">Installation</span><h3>Ready to try it?</h3><p>Use the official download link already configured for this app.</p><a href={app.downloadUrl} rel="noopener noreferrer" className="button button--primary">Install now <Icon name="arrow" size={16}/></a>{app.repoUrl && <a href={app.repoUrl} target="_blank" rel="noreferrer" className="side-link">View source / release <Icon name="external" size={15}/></a>}</div>
         {related.length > 0 && <div className="related"><div className="related__heading"><span>More to explore</span><Link to="/">See all <Icon name="arrow" size={14}/></Link></div>{related.map((item,i) => <AppCard key={item.id} app={item} index={i} compact />)}</div>}
       </aside>
     </section>

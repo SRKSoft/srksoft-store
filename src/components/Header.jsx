@@ -53,7 +53,7 @@ export default function Header() {
             <button className="icon-button header-back" onClick={() => navigate(-1)} aria-label="Go back"><Icon name="back" size={19} /></button>
           )}
           <Link to="/" className="brand" aria-label="SRK Soft Store home">
-            <span className="brand__mark"><img src="/icons/web-app-manifest-512x512.png" alt="SRK Soft Logo" /></span>
+            <span className="brand__mark"><img src="/icons/android-chrome-512x512.png" alt="SRK Soft Logo" /></span>
             <span className="brand__copy"><strong>SRK Soft</strong><span>Store</span></span>
           </Link>
         </div>

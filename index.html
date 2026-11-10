@@ -3,18 +3,18 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>𝐒𝐑𝐊 𝐒𝐨𝐟𝐭 𝐒𝐭𝐨𝐫𝐞 Apps,Games&Tools</title>
+    <title>SRK Soft Store – Free Open Source Apps &amp; Tools</title>
 
     <!-- SEO Meta Tags -->
-    <meta name="description" content="SRK Soft Store (MSR App Store) - Discover and install high-quality web apps, software tools, and games built by independent developer." />
-    <meta name="keywords" content="SRK Soft, SRK Apps, SRK Soft Store, MSR App Store, Web Apps, Software Tools, Games, Independent Developer" />
+    <meta name="description" content="Download free open source apps, tools and games for Windows, macOS, Linux and Android. Direct downloads from official GitHub releases, no account needed." />
+    <meta name="keywords" content="SRK Soft Store, SRK Soft, open source apps, open source app store, free Windows software, GitHub releases, direct download, software tools, games" />
     <meta name="author" content="SRK Soft" />
-    <meta name="robots" content="index, follow" />
+    <meta name="robots" content="index, follow, max-image-preview:large" />
     <meta name="google-site-verification" content="YALwjH76qh-FMbb4uRbp2-w3ExaIFNfpqe-4rfadMLA" />
 
-    <!-- Favicons & App Icons (Updated) -->
-    <link rel="icon" type="image/png" href="/icons/favicon-96x96.png" sizes="96x96" />
-    <link rel="icon" type="image/svg+xml" href="/icons/favicon.svg" />
+    <!-- Favicons & App Icons -->
+    <link rel="icon" type="image/png" sizes="32x32" href="/icons/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/icons/favicon-16x16.png" />
     <link rel="shortcut icon" href="/icons/favicon.ico" />
     <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png" />
     <link rel="manifest" href="/manifest.json" />
@@ -25,17 +25,53 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap" rel="stylesheet" />
 
-    <!-- Open Graph / Facebook / WhatsApp SEO -->
-    <meta property="og:title" content="SRK Soft Store - Discover Apps & Tools" />
-    <meta property="og:description" content="Browse and install high-quality web apps, software tools, and games built by SRK Soft." />
+    <!-- Open Graph / Facebook / WhatsApp -->
+    <meta property="og:site_name" content="SRK Soft Store" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:title" content="SRK Soft Store – Free Open Source Apps &amp; Tools" />
+    <meta property="og:description" content="Browse and install free open source apps, tools and games. Direct downloads from official GitHub releases." />
     <meta property="og:type" content="website" />
-    <meta property="og:image" content="/icons/web-app-manifest-512x512.png" />
+    <meta property="og:image" content="https://apps.srksoft.online/icons/android-chrome-512x512.png" />
 
-    <!-- Twitter Card SEO -->
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="SRK Soft Store - Discover Apps & Tools" />
-    <meta name="twitter:description" content="Browse and install web apps, tools, and games built by SRK Soft." />
-    <meta name="twitter:image" content="/icons/web-app-manifest-512x512.png" />
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="SRK Soft Store – Free Open Source Apps &amp; Tools" />
+    <meta name="twitter:description" content="Browse and install free open source apps, tools and games. Direct downloads from official GitHub releases." />
+    <meta name="twitter:image" content="https://apps.srksoft.online/icons/android-chrome-512x512.png" />
+
+    <!-- Structured Data: Organization + WebSite -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://srksoft.online/#organization",
+          "name": "SRK Soft",
+          "url": "https://srksoft.online/",
+          "logo": "https://apps.srksoft.online/icons/android-chrome-512x512.png",
+          "sameAs": [
+            "https://github.com/SRKSoft",
+            "https://www.youtube.com/@srksoft.official",
+            "https://www.instagram.com/srksoft.official",
+            "https://x.com/srksofts",
+            "https://www.tiktok.com/@srk_soft.offfcial",
+            "https://www.linkedin.com/company/srksoft/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://apps.srksoft.online/#website",
+          "url": "https://apps.srksoft.online/",
+          "name": "SRK Soft Store",
+          "alternateName": ["SRK Store", "SRK Soft Apps"],
+          "description": "Free open source apps, tools and games with direct downloads from official GitHub releases.",
+          "publisher": { "@id": "https://srksoft.online/#organization" },
+          "inLanguage": "en"
+        }
+      ]
+    }
+    </script>
   </head>
   <body>
     <script>
@@ -44,6 +80,10 @@
         if (t === 'dark') document.documentElement.setAttribute('data-theme', 'dark');
       } catch (e) {}
     </script>
+    <noscript>
+      <h1>SRK Soft Store – Free Open Source Apps &amp; Tools</h1>
+      <p>Browse and install free open source apps, tools and games with direct downloads from official GitHub releases. Please enable JavaScript to use the store.</p>
+    </noscript>
     <div id="root"></div>
     <script type="module" src="/src/main.jsx"></script>
   </body>

@@ -2,8 +2,15 @@ import { Link } from 'react-router-dom'
 import developer from '../data/developer.json'
 import apps from '../data/apps.json'
 import AppCard from '../components/AppCard.jsx'
+import useSEO from '../hooks/useSEO.js'
 
 export default function About() {
+  useSEO({
+    title: 'About SRK Soft – Developer of SRK Soft Store',
+    description: 'Meet the developer behind SRK Soft Store and browse the apps published by SRK Soft, with direct downloads from official releases.',
+    path: '/about',
+  })
+
   const links = Object.entries(developer.socials || {}).filter(([,url]) => url)
   return <main className="about-page">
     <section className="about-hero"><div className="container about-hero__inner">

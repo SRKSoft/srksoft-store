@@ -103,6 +103,21 @@ async function readmeImages(repo, branch) {
   } catch { return []; }
 }
 
+// ---------- seed row theek karna ----------
+// Har row aisi honi chahiye: [repo, title, category, short description, (optional id)]
+// Agar title likhna bhool jao (sirf 3 cheezein), to title galat jagah chala jata tha
+// (app ka naam "Utilities" ban jata tha). Ab repo ka naam title bana kar warning deta hai.
+function normalizeRow(item) {
+  if (item.length >= 4) return item;
+  if (item.length === 3) {
+    const [repo, category, short] = item;
+    const title = repo.split('/')[1];
+    console.warn(`\n⚠️  seed row "${repo}" mein title nahi hai — "${title}" use kiya. apps-seed.json mein theek kar do.`);
+    return [repo, title, category, short];
+  }
+  throw new Error('seed row mein [repo, title, category, short] hona chahiye');
+}
+
 // ---------- ek app ----------
 async function buildApp(group, item, overrides) {
   const [repo, title, category, short, idOverride] = item;
@@ -167,19 +182,22 @@ async function buildApp(group, item, overrides) {
   const total = seed.reduce((s, g) => s + g.apps.length, 0);
 
   for (const group of seed) {
-    for (const item of group.apps) {
+    for (const rawItem of group.apps) {
       n++;
-      process.stdout.write(`[${n}/${total}] ${item[0]} ... `);
+      process.stdout.write(`[${n}/${total}] ${rawItem[0]} ... `);
       try {
+        const item = normalizeRow(rawItem);
         const app = await buildApp(group, item, overrides);
+        // Id pehle se maujood ho to pehle owner ka naam, phir bhi takra jaye to platform ka naam lagao.
         if (seen.has(app.id)) app.id = `${item[0].split('/')[0].toLowerCase()}-${app.id}`;
+        if (seen.has(app.id)) app.id = `${app.id}-${group.platform.toLowerCase()}`;
         seen.add(app.id);
         results.push(app);
         console.log(`OK  ${app.version}  ${app.size}`);
       } catch (e) {
-        if (e.message === 'RATE_LIMIT') { console.log('RATE LIMIT — ruk gaya'); failed.push(`${item[0]}: rate limit`); break; }
+        if (e.message === 'RATE_LIMIT') { console.log('RATE LIMIT — ruk gaya'); failed.push(`${rawItem[0]}: rate limit`); break; }
         console.log(`FAIL (${e.message})`);
-        failed.push(`${item[0]}: ${e.message}`);
+        failed.push(`${rawItem[0]}: ${e.message}`);
       }
       await sleep(250);
     }
